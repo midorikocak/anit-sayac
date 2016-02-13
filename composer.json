@@ -13,5 +13,14 @@
             "email": "mtkocak@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "MidoriKocak\\": "src/"
+        },
+        "psr-0": {
+            "MidoriKocakTest\\": "tests/"
+        }
+    }
+
 }
