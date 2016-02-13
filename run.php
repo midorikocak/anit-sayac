@@ -7,9 +7,10 @@
     $notFetched = [];
     foreach($names as $key => $value){
         usleep(2000000);
-        $person = $crawl->getPerson($value['link']);
         if(!file_exists('data/'.$key.'.json')){
+            $person = $crawl->getPerson($value['link']);
             $crawl->saveArrayToJson($person,$key);
+            var_dump($person);
         }
     }
 ?>
