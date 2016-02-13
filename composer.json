@@ -1,0 +1,17 @@
+{
+    "name": "midorikocak/anit-sayac",
+    "description": "json data from anitsayac.com and data analysis",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^5.2",
+        "fabpot/goutte": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Midori Kocak",
+            "email": "mtkocak@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
