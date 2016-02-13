@@ -58,29 +58,20 @@ class Crawler {
         return true;
     }
 
-    public function getDetails(){
-        $namesJson = file_get_contents('data/names.json');
-        $result = [];
-        $names = json_decode($namesJson, true);
-        foreach($names as $key => $value){
-            var_dump($value['link']);
-            $person = $this->getPerson($value['link']);
-            $result[$key] = array_merge($person, $value);
-        }
-        $this->saveArrayToJson($result,'people');
-    }
-
     function getPerson($url){
         $result = [];
         $personCrawler = $this->client->request('GET', $url);
         $images = $personCrawler->filter('img')->each(function ($node) {
             return $node->attr('src');
         });
+
         $body = $personCrawler->filter('body')->each(function ($node) {
             return explode('<br>',$node->html());
         });
         $lastElementKey = null;
-        if(isset($body[0])){
+        if(!isset($body[0])){
+            return null;
+        }
             foreach ($body[0] as $value){
                 $value = strip_tags($value);
                 if(strpos($value,':')!==false){
@@ -88,6 +79,7 @@ class Crawler {
                     if(sizeof($data)>2){
                         $data[1] .= $data[2];
                     }
+                    $data[0] = $string = trim(preg_replace('/\s\s+/', ' ', $data[0]));
                     $result[$data[0]] = trim($data[1]);
                     $lastElementKey = $data[0];
                 }
@@ -95,7 +87,6 @@ class Crawler {
                     $result[$lastElementKey] .= ' '.$value;
                 }
             }
-        }
         $result['images'] = $images;
         return $result;
     }
