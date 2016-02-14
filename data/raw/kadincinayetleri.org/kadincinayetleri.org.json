@@ -1,0 +1,2268 @@
+[
+{"id":503,"name":"Merve Dağlı, 18","date":"24/02/2015","place":"Soma, Manisa","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":953,"name":"Hediye Dinler, 45","date":"31/12/2014","place":"Etimesgut, Ankara","who": "Oğlu","cause":"Tartışma/ kavga"},
+
+{"id":954,"name":"Meltem K., 25","date":"31/12/2014","place":"Sancaktepe, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":952,"name":"Nurten A.","date":"29/12/2014","place":"Esenyurt, Istanbul","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":951,"name":"Dilek Ö., 32","date":"29/12/2014","place":"Merkez, Van","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":950,"name":"Feride Usta, 63","date":"25/12/2014","place":"Gümüşova, Düzce","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":948,"name":"Senem Ögelge, 3","date":"24/12/2014","place":"Seyhan, Adana","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":947,"name":"Sinem Ögelge, 30","date":"24/12/2014","place":"Seyhan, Adana","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":949,"name":"Simge Ögelge, 0","date":"24/12/2014","place":"Seyhan, Adana","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":945,"name":"Yüksel Ela D., 23","date":"23/12/2014","place":"Gaziosmanpaşa, Istanbul","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":946,"name":"Hatice Alper Kavalcı, 38","date":"23/12/2014","place":"Didim, Aydın","who": "Kocası","cause":"Kadının saçını kızıla boyatması"},
+
+{"id":944,"name":"Gönül Yardım, 63","date":"20/12/2014","place":"Kadıköy, Istanbul","who": "Oğlu","cause":"Bilinmiyor"},
+
+{"id":942,"name":"Nazmiye Akyol, 35","date":"19/12/2014","place":"Osmangazi, Bursa","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":943,"name":"Fatma Olcay","date":"19/12/2014","place":"Altındağ, Ankara","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":941,"name":"Canan Göktaş, 25","date":"17/12/2014","place":"Aksu, Antalya","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":940,"name":"Alev Güven, 33","date":"16/12/2014","place":"Konak, İzmir","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":938,"name":"Fatma Geçitli, 40","date":"14/12/2014","place":"Ilgın, Konya","who": "Tanıdığı bir erkek","cause":"Kadının dedikodu yapması"},
+
+{"id":937,"name":"Ayfer Şahin, 28","date":"14/12/2014","place":"Mamak, Ankara","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":939,"name":"Betül Geçitli, 10","date":"14/12/2014","place":"Ilgın, Konya","who": "Tanıdığı bir erkek","cause":"Kadının dedikodu yapması"},
+
+{"id":935,"name":"Pınar Duru, 36","date":"12/12/2014","place":"Altınyayla, Burdur","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":934,"name":"Merve Ciblavi, 22","date":"12/12/2014","place":"Merkez, Karaman","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":933,"name":"Ayşegül Kurtuluş, 46","date":"11/12/2014","place":"Nazilli, Aydın","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":932,"name":"Nursel Ateş, 38","date":"11/12/2014","place":"Merkez, Kütahya","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":930,"name":"Büşra Çiftçi, 20","date":"10/12/2014","place":"Erciş, Van","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":931,"name":"Yasemin Çetiner, 42","date":"10/12/2014","place":"Toroslar, Mersin","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":929,"name":"T.e., 33","date":"08/12/2014","place":"Ardeşen, Rize","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":928,"name":"Aysun Açıkgöz, 59","date":"08/12/2014","place":"Beypazarı, Ankara","who": "Oğlu","cause":"Bilinmiyor"},
+
+{"id":927,"name":"Zehra Demir, 33","date":"07/12/2014","place":"Torbalı, İzmir","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":926,"name":"Ayşe Hakan, 27","date":"02/12/2014","place":"Kartepe, Kocaeli","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":924,"name":"Emine Börü, 35","date":"01/12/2014","place":"Bağlar, Diyarbakır","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":925,"name":"Eda Okutgen, 41","date":"01/12/2014","place":"Karabağlar, İzmir","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":923,"name":"Filiz Ören","date":"01/12/2014","place":"Merkez, Van","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":922,"name":"Kadriye Karaca, 49","date":"26/11/2014","place":"Demre, Antalya","who": "Tanıdığı bir erkek","cause":"Hırsızlık"},
+
+{"id":921,"name":"Erguvan Karaoğlu, 29","date":"24/11/2014","place":"İpsala, Edirne","who": "Erkek arkadaşı","cause":"Erkeğin kadının işini onaylamaması"},
+
+{"id":920,"name":"Tuğba Garan, 17","date":"20/11/2014","place":"Melikgazi, Kayseri","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":919,"name":"Serra Yalnız, 33","date":"19/11/2014","place":"Sungurlu, Çorum","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":918,"name":"Melek B., 17","date":"18/11/2014","place":"Merkez, Kastamonu","who": "Babası","cause":"Kaza iddiası"},
+
+{"id":916,"name":"Fadime Ser, 33","date":"17/11/2014","place":"İzmit, Kocaeli","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":917,"name":"İnci Ateş, 20","date":"17/11/2014","place":"İzmit, Kocaeli","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":915,"name":"Dilara Münevver Yeşiltepe, 17","date":"14/11/2014","place":"Konak, İzmir","who": "Erkek kardeşi","cause":"Kadının yaptırdığı dövme"},
+
+{"id":914,"name":"Duygu Karadağ, 21","date":"13/11/2014","place":"Antakya, Hatay","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":936,"name":"Tuğba Arık, 28","date":"13/11/2014","place":"Merkez, Kütahya","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":913,"name":"Fatma Uğuz, 26","date":"12/11/2014","place":"Merkez, Uşak","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":912,"name":"Fatma Zaim, 21","date":"12/11/2014","place":"Merkez, Trabzon","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":911,"name":"Makbule Cengiz, 27","date":"11/11/2014","place":"Merkez, Bolu","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":909,"name":"Firdevs Vanlı, 37","date":"06/11/2014","place":"Kocasinan, Kayseri","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":910,"name":"Yasemin Örs, 31","date":"06/11/2014","place":"Selçuklu, Konya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":908,"name":"Ceylan Kahraman, 15","date":"04/11/2014","place":"Merkez, Ağrı","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":907,"name":"Hatice Uysal, 42","date":"03/11/2014","place":"Mezitli, Mersin","who": "Eski kocası","cause":"Kıskançlık"},
+
+{"id":906,"name":"Emine Kuru, 57","date":"02/11/2014","place":"Osmangazi, Bursa","who": "Kocası","cause":"Kadının çamaşır yıkamaması"},
+
+{"id":905,"name":"Ayşe Uysal, 29","date":"01/11/2014","place":"Merkez, Karaman","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":903,"name":"Tuğba Demir, 23","date":"28/10/2014","place":"Keçiören, Ankara","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":904,"name":"Lorita Yıldız, 52","date":"28/10/2014","place":"Görele, Giresun","who": "Dini nikahlı kocası","cause":"Bilinmiyor"},
+
+{"id":902,"name":"Dilber Kalaz, 42","date":"25/10/2014","place":"Dörtyol, Hatay","who": "Tanıdığı bir erkek","cause":"Tartışma/ kavga"},
+
+{"id":901,"name":"İnci Avcı, 39","date":"25/10/2014","place":"Merkez, Iğdır","who": "Damadı","cause":"Kadının erkeğin barışmasına engel olması"},
+
+{"id":900,"name":"Hülya Çadırcı, 28","date":"23/10/2014","place":"Ümraniye, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":899,"name":"Melek Karataş, 31","date":"19/10/2014","place":"Gemlik, Bursa","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":898,"name":"Huriye Kaya, 40","date":"18/10/2014","place":"Odunpazarı, Eskişehir","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":897,"name":"Emine Bekar, 50","date":"16/10/2014","place":"Cumayeri, Düzce","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":896,"name":"Eda Şahin, 18","date":"13/10/2014","place":"Silopi, Adana","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":895,"name":"Fatma Karaca, 27","date":"11/10/2014","place":"Dörtyol, Hatay","who": "Kocası","cause":"Kadının erkeğin annesini seyrek ziyaret etmesi"},
+
+{"id":893,"name":"Hülya Kaytan, 32","date":"11/10/2014","place":"Nazilli, Aydın","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":894,"name":"Bahar Topal, 30","date":"11/10/2014","place":"Sancaktepe, Istanbul","who": "Oğlu","cause":"Bilinmiyor"},
+
+{"id":892,"name":"Seda Taşman, 31","date":"09/10/2014","place":"Akdeniz, Mersin","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":891,"name":"Ayşe Zorlu, 42","date":"09/10/2014","place":"Gölcük, Kocaeli","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":890,"name":"Saadet Hayırlı, 31","date":"08/10/2014","place":"Merkez, Şanlıurfa","who": "Akrabası","cause":"Hırsızlık"},
+
+{"id":888,"name":"Ayşe Güneş, 39","date":"07/10/2014","place":"Çaycuma, Zonguldak","who": "Eski erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":889,"name":"Songül Kılıçaslan, 35","date":"07/10/2014","place":"Gölbaşı, Ankara","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":887,"name":"Kader Bingöl, 20","date":"06/10/2014","place":"Derince, Kocaeli","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":886,"name":"Elif Köse, 40","date":"01/10/2014","place":"İslahiye, Gaziantep","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":885,"name":"Seliha Tokat, 33","date":"01/10/2014","place":"İpsala, Edirne","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":884,"name":"Yazgülü Sarı, 28","date":"29/09/2014","place":"Çankaya, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":883,"name":"Mihriban Işıklı, 16","date":"27/09/2014","place":"Bağlar, Diyarbakır","who": "Dini nikahlı kocası","cause":"Bilinmiyor"},
+
+{"id":882,"name":"Ayşe Tuna, 31","date":"26/09/2014","place":"Şahinbey, Gaziantep","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":881,"name":"Nermin Tabak, 44","date":"24/09/2014","place":"Sancaktepe, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":880,"name":"Gülten A., 35","date":"23/09/2014","place":"Fatsa, Ordu","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":879,"name":"Hatice Kaçmaz, 33","date":"19/09/2014","place":"Yenimahalle, Ankara","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":878,"name":"Elif Yolcu","date":"19/09/2014","place":"Büyükçekmece, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":877,"name":"Zahide Akgül, 18","date":"18/09/2014","place":"Merkez, Şanlıurfa","who": "Babası","cause":"Namus/ töre"},
+
+{"id":876,"name":"Jesica Nankabirwa, 39","date":"17/09/2014","place":"Fatih, Istanbul","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":875,"name":"Şeker Dikbıyık, 38","date":"15/09/2014","place":"Tepebaşı, Eskişehir","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":874,"name":"Fatma Şerban, 34","date":"13/09/2014","place":"Ümraniye, Istanbul","who": "Erkek arkadaşı","cause":"Maddi kaynaklı"},
+
+{"id":873,"name":"Burcu Çiftçi, 19","date":"11/09/2014","place":"Seyhan, Adana","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":872,"name":"Nazmiye Çam, 55","date":"09/09/2014","place":"Kırkağaç, Manisa","who": "Diğer yakını","cause":"Tartışma/ kavga"},
+
+{"id":871,"name":"Sultan Kaymaz, 45","date":"09/09/2014","place":"Çekmeköy, Istanbul","who": "Tanıdığı bir erkek","cause":"Kadının erkeği şikayet etmesi"},
+
+{"id":869,"name":"Nezahat Yolcu","date":"08/09/2014","place":"Bulanık, Muş","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":870,"name":"Yankı Duygu Bayrak, 20","date":"08/09/2014","place":"Mezitli, Mersin","who": "Erkek arkadaşı","cause":"Kaza iddiası"},
+
+{"id":868,"name":"Halime Yelmez, 44","date":"07/09/2014","place":"Yüreğir, Adana","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":866,"name":"Zeliha Şule Demiray, 42","date":"03/09/2014","place":"Karabağlar, İzmir","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":867,"name":"Gülay H., 26","date":"03/09/2014","place":"Şahinbey, Gaziantep","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":865,"name":"Nazlı Ş., 20","date":"02/09/2014","place":"Şiran, Gümüşhane","who": "Akrabası","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":864,"name":"Ceyda Kayalar, 27","date":"01/09/2014","place":"Merkez, Denizli","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":862,"name":"Sevim Anarat, 39","date":"30/08/2014","place":"Buca, İzmir","who": "Tanıdığı bir erkek","cause":"Kadının hakaret etmesi"},
+
+{"id":863,"name":"Ebru Demir, 17","date":"30/08/2014","place":"Elbistan, Kahramanmaraş","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":861,"name":"Dila Furaz Aşuraliyeva, 14","date":"26/08/2014","place":"Muratpaşa, Antalya","who": "Diğer yakını","cause":"Tartışma/ kavga"},
+
+{"id":860,"name":"Miyase Şahin, 45","date":"25/08/2014","place":"Şahinbey, Gaziantep","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":858,"name":"Zehra Şimşek, 29","date":"24/08/2014","place":"Battalgazi, Malatya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":859,"name":"Meral Timdik, 37","date":"24/08/2014","place":"Merkez, Tunceli","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":857,"name":"Özlem Yıldırım, 43","date":"20/08/2014","place":"Osmangazi, Bursa","who": "Diğer yakını","cause":"Kadının gülmesi"},
+
+{"id":856,"name":"Hülya Çelik, 40","date":"17/08/2014","place":"Çankaya, Ankara","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":855,"name":"D.ö., 55","date":"15/08/2014","place":"Pursaklar, Ankara","who": "Kocası","cause":"Cinsel saldırı"},
+
+{"id":854,"name":"Nihal Karadağ, 23","date":"15/08/2014","place":"Küçükçekmece, Istanbul","who": "Tanıdığı bir erkek","cause":"Kıskançlık"},
+
+{"id":853,"name":"Sultan Karaoğlan, 19","date":"15/08/2014","place":"Küçükçekmece, Istanbul","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":852,"name":"Bahtışen Gürel, 69","date":"14/08/2014","place":"Keşap, Giresun","who": "Erkek kardeşi","cause":"Maddi kaynaklı"},
+
+{"id":851,"name":"Netice Oral, 74","date":"14/08/2014","place":"Keşap, Giresun","who": "Erkek kardeşi","cause":"Maddi kaynaklı"},
+
+{"id":850,"name":"Gülnar Maldakhanova, 36","date":"13/08/2014","place":"Merkez, Uşak","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":849,"name":"Safiye Coşkun, 56","date":"12/08/2014","place":"Arsin, Trabzon","who": "Damadı","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":848,"name":"Ebru Berçin, 26","date":"10/08/2014","place":"Ümraniye, Istanbul","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":844,"name":"Selime Efe, 30","date":"08/08/2014","place":"Kozluk, Batman","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":847,"name":"Luma Ahmed, 18","date":"08/08/2014","place":"Merkez, Şanlıurfa","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":846,"name":"Leyla Güneş, 15","date":"08/08/2014","place":"Kozluk, Batman","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":845,"name":"Sadiye Tunla, 50","date":"08/08/2014","place":"Kozluk, Batman","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":843,"name":"Sultan Efe, 18","date":"08/08/2014","place":"Kozluk, Batman","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":842,"name":"Selime G., 47","date":"02/08/2014","place":"Avcılar, Istanbul","who": "Kocası","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":841,"name":"Gülşah Gülcan, 27","date":"01/08/2014","place":"Karabağlar, İzmir","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":840,"name":"Hediye Öztürk, 26","date":"28/07/2014","place":"Bağcılar, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":839,"name":"Aylin Yayla, 37","date":"26/07/2014","place":"Buldan, Denizli","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":838,"name":"Nadia Aljendi, 49","date":"25/07/2014","place":"Çukurova, Adana","who": "Damadı","cause":"Tartışma/ kavga"},
+
+{"id":837,"name":"Mediha Aksu, 37","date":"24/07/2014","place":"Silivri, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":836,"name":"Füsun Tosunoğlu, 34","date":"23/07/2014","place":"Gölcük, Kocaeli","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":835,"name":"Rabia Doğan, 50","date":"22/07/2014","place":"Alanya, Antalya","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":834,"name":"Fatma Ünal, 24","date":"22/07/2014","place":"İmamoğlu, Adana","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":833,"name":"Çiğdem Ç., 40","date":"19/07/2014","place":"Başakşehir, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":832,"name":"Meryem Kaplan, 63","date":"15/07/2014","place":"Merkez, Kırıkkale","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":831,"name":"Mehtap Ay, 24","date":"14/07/2014","place":"Sultangazi, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":830,"name":"Svetlana Sherwaz, 38","date":"13/07/2014","place":"Muratpaşa, Antalya","who": "Eski erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":829,"name":"Ayfer S., 20","date":"10/07/2014","place":"Avcılar, Istanbul","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":828,"name":"Nuriye Tabanca, 19","date":"09/07/2014","place":"Arifiye, Sakarya","who": "Erkek arkadaşı","cause":"Namus/ töre"},
+
+{"id":827,"name":"Şefika Söylemez, 21","date":"08/07/2014","place":"Merkez, Çanakkale","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":826,"name":"Derya Çetin, 25","date":"08/07/2014","place":"Menderes, İzmir","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":825,"name":"Şükriye Yılmaz, 56","date":"06/07/2014","place":"Kestel, Bursa","who": "Oğlu","cause":"Tartışma/ kavga"},
+
+{"id":824,"name":"Dilek G., 29","date":"06/07/2014","place":"Çankaya, Ankara","who": "Babası","cause":"Namus/ töre"},
+
+{"id":823,"name":"Hatice D., 20","date":"04/07/2014","place":"Merkez, Şanlıurfa","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":820,"name":"Sibel Kazankaya, 36","date":"03/07/2014","place":"Sancaktepe, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":822,"name":"Şadiye Aslan, 27","date":"03/07/2014","place":"Bornova, İzmir","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":821,"name":"Dilek Balsak, 34","date":"03/07/2014","place":"Seyhan, Adana","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":818,"name":"Adalet Kahraman, 74","date":"02/07/2014","place":"Yakutiye, Erzurum","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":819,"name":"Hülya İbrendi, 18","date":"02/07/2014","place":"Bağcılar, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":813,"name":"Hülya Tosun, 33","date":"01/07/2014","place":"Bafra, Samsun","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":817,"name":"Nuray Atay","date":"01/07/2014","place":"Çankaya, Ankara","who": "Tanıdığı bir erkek","cause":"Dolaylı"},
+
+{"id":814,"name":"Emine Baş, 31","date":"01/07/2014","place":"Bozüyük, Bilecik","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":815,"name":"Nalan Emine Sıddık, 50","date":"01/07/2014","place":"Marmaris, Muğla","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":816,"name":"Şengül Özbek","date":"01/07/2014","place":"Çankaya, Ankara","who": "Eski erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":812,"name":"Muteber Polat, 74","date":"26/06/2014","place":"Merkez, Sivas","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":811,"name":"Yasemin Yalçın, 54","date":"24/06/2014","place":"Odunpazarı, Eskişehir","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":810,"name":"Senem Tolgay, 38","date":"19/06/2014","place":"Çorlu, Tekirdağ","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":809,"name":"İ.y.","date":"19/06/2014","place":"Karaçoban, Erzurum","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":808,"name":"Fatma Balaban, 40","date":"18/06/2014","place":"Çeşme, İzmir","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":805,"name":"Tayyibe Genç, 48","date":"16/06/2014","place":"Esenler, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":806,"name":"Büşra Genç, 14","date":"16/06/2014","place":"Esenler, Istanbul","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":807,"name":"Sevil Özden, 29","date":"16/06/2014","place":"Sarıyer, Istanbul","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":804,"name":"Zeynep Eraslan, 37","date":"13/06/2014","place":"Sancaktepe, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":803,"name":"Rabia Benek, 30","date":"09/06/2014","place":"Uludere, Şırnak","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":802,"name":"Gönül Aras, 24","date":"08/06/2014","place":"Doğubayazıt, Ağrı","who": "Tanıdığı bir erkek","cause":"Cinsel saldırı"},
+
+{"id":801,"name":"Musaybe Almousa, 24","date":"07/06/2014","place":"Beyoğlu, Istanbul","who": "Erkek kardeşi","cause":"Kadının ülkesine dönme isteği"},
+
+{"id":800,"name":"Melek Ören, 22","date":"06/06/2014","place":"Gölhisar, Burdur","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":799,"name":"Meliha Yiğitoğlu, 84","date":"04/06/2014","place":"Odunpazarı, Eskişehir","who": "Tanıdığı bir erkek","cause":"Maddi kaynaklı"},
+
+{"id":798,"name":"Tijen Demirlap, 34","date":"31/05/2014","place":"Sarıçam, Adana","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":794,"name":"Öznur Kömür, 33","date":"30/05/2014","place":"Merkez, Karaman","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":795,"name":"Banu Yaprak, 23","date":"30/05/2014","place":"Şahinbey, Gaziantep","who": "Erkek kardeşi","cause":"Tartışma/ kavga"},
+
+{"id":796,"name":"Meryem Döş, 25","date":"30/05/2014","place":"Şahinbey, Gaziantep","who": "Erkek kardeşi","cause":"Tartışma/ kavga"},
+
+{"id":797,"name":"Yıldız Etiket, 33","date":"30/05/2014","place":"Şahinbey, Gaziantep","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":793,"name":"Ferinaz Polat, 30","date":"28/05/2014","place":"Karaçoban, Erzurum","who": "Kocası","cause":"Kadının erkeği şikayet etmesi"},
+
+{"id":792,"name":"Burcu Akyol Çapar, 22","date":"27/05/2014","place":"Merkez, Manisa","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":791,"name":"Dilber Kılıç, 37","date":"24/05/2014","place":"Çekmeköy, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":789,"name":"Eda Çapan, 17","date":"22/05/2014","place":"Esenler, Istanbul","who": "Diğer yakını","cause":"Bilinmiyor"},
+
+{"id":788,"name":"Melek Çapan, 45","date":"22/05/2014","place":"Esenler, Istanbul","who": "Dini nikahlı kocası","cause":"Bilinmiyor"},
+
+{"id":790,"name":"Seda Çapan, 17","date":"22/05/2014","place":"Esenler, Istanbul","who": "Diğer yakını","cause":"Bilinmiyor"},
+
+{"id":787,"name":"Cennet Günana, 24","date":"20/05/2014","place":"Sungurlu, Çorum","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":786,"name":"Sumru Müftüoğlu, 63","date":"17/05/2014","place":"Kadirli, Osmaniye","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":785,"name":"Dilek Aypar, 23","date":"13/05/2014","place":"Küçükçekmece, Istanbul","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":782,"name":"Feride Köroğlu, 28","date":"10/05/2014","place":"Belen, Hatay","who": "Kocası","cause":"Erkeğin kuma getirme isteğinin reddedilmesi"},
+
+{"id":784,"name":"İrem Sultan Köroğlu, 8","date":"10/05/2014","place":"Belen, Hatay","who": "Babası","cause":"Erkeğin kuma getirme isteğinin reddedilmesi"},
+
+{"id":783,"name":"Fevziye Saklar, 43","date":"10/05/2014","place":"Belen, Hatay","who": "Erkek arkadaşı","cause":"Erkeğin kuma getirme isteğinin reddedilmesi"},
+
+{"id":781,"name":"Hanife Filiz, 21","date":"08/05/2014","place":"Meram, Konya","who": "Akrabası","cause":"Dolaylı"},
+
+{"id":780,"name":"Rukiye Özkaraalp, 19","date":"08/05/2014","place":"Meram, Konya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":779,"name":"Banu Kesler, 26","date":"06/05/2014","place":"Kavaklıdere, Muğla","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":778,"name":"Özlem Aktepe, 37","date":"04/05/2014","place":"Karayazı, Erzurum","who": "Kayınpederi","cause":"Bilinmiyor"},
+
+{"id":777,"name":"Şeyda Şengül, 27","date":"04/05/2014","place":"Merkez, Amasya","who": "Kocası","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":775,"name":"Remziye Eripek, 37","date":"03/05/2014","place":"Bağcılar, Istanbul","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":776,"name":"Gülden K., 33","date":"02/05/2014","place":"Boğazlıyan, Yozgat","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":774,"name":"Fulya Bahçıvanoğlu Güney, 33","date":"29/04/2014","place":"Kadıköy, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":773,"name":"Semiha K., 28","date":"26/04/2014","place":"Şehitkâmil, Gaziantep","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":772,"name":"Özlem Işık, 31","date":"26/04/2014","place":"Meram, Konya","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":768,"name":"Nazan Şimşek, 44","date":"23/04/2014","place":"Yüreğir, Adana","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":769,"name":"Ladin Şimşek, 15","date":"23/04/2014","place":"Yüreğir, Adana","who": "Babası","cause":"Maddi kaynaklı"},
+
+{"id":771,"name":"Nuray Yıldız, 41","date":"22/04/2014","place":"Odunpazarı, Eskişehir","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":770,"name":"Şerife Şen, 18","date":"22/04/2014","place":"Turhal, Tokat","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":767,"name":"Çağla Joker, 25","date":"21/04/2014","place":"Beyoğlu, Istanbul","who": "Saldırgan","cause":"Cinsiyet kimliği"},
+
+{"id":765,"name":"Nahiye Kirmit, 41","date":"20/04/2014","place":"İskenderun, Hatay","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":766,"name":"Sevgi Zağlı, 42","date":"20/04/2014","place":"Kartepe, Kocaeli","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":764,"name":"Duygu Karaca, 20","date":"17/04/2014","place":"Bayraklı, İzmir","who": "Tanıdığı bir erkek","cause":"Tartışma/ kavga"},
+
+{"id":763,"name":"Betül Yıldız, 35","date":"16/04/2014","place":"Bakırköy, Istanbul","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":762,"name":"Firuze Yıldız, 58","date":"16/04/2014","place":"Bakırköy, Istanbul","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":761,"name":"Ebru Duman, 25","date":"14/04/2014","place":"Altındağ, Ankara","who": "Dini nikahlı kocası","cause":"Bilinmiyor"},
+
+{"id":760,"name":"Zeynep Baysal, 42","date":"12/04/2014","place":"Merkez, Denizli","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":759,"name":"Emine Ebren, 28","date":"09/04/2014","place":"Osmangazi, Bursa","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":755,"name":"Naime Yılmaz, 34","date":"08/04/2014","place":"Edremit, Balıkesir","who": "Kocası","cause":"Erkeğe evliliğin zor gelmesi"},
+
+{"id":757,"name":"Elif Akcan, 28","date":"08/04/2014","place":"Ereğli, Zonguldak","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":756,"name":"Fatma Çalışkan, 53","date":"08/04/2014","place":"Hekimhan, Malatya","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":758,"name":"Nurcan Açıkgöz, 49","date":"08/04/2014","place":"Ereğli, Zonguldak","who": "Damadı","cause":"Bilinmiyor"},
+
+{"id":754,"name":"Esther Giovanna Parker Sengir, 39","date":"07/04/2014","place":"Bodrum, Muğla","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":753,"name":"Sevgi Dinçer, 46","date":"06/04/2014","place":"Çukurova, Adana","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":752,"name":"Asiye Ülkü Korkmaz, 23","date":"05/04/2014","place":"Melikgazi, Kayseri","who": "Kocası","cause":"Kadının erkeği şikayet etmesi"},
+
+{"id":751,"name":"Sabiha İvenç, 35","date":"05/04/2014","place":"Şahinbey, Gaziantep","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":750,"name":"Keziban Akbalık, 47","date":"05/04/2014","place":"Tarsus, Mersin","who": "Dini nikahlı kocası","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":749,"name":"Mercan Şahan, 52","date":"04/04/2014","place":"Merkez, Çorum","who": "Damadı","cause":"Tartışma/ kavga"},
+
+{"id":748,"name":"Özge B., 21","date":"01/04/2014","place":"Merkez, Edirne","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":747,"name":"Selcan Milaslıoğlu, 30","date":"31/03/2014","place":"Fethiye, Muğla","who": "Kocası","cause":"Erkeğin kadının işini onaylamaması"},
+
+{"id":746,"name":"Emine Ay, 33","date":"31/03/2014","place":"Mustafakemalpaşa, Bursa","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":745,"name":"Meyaser Can, 61","date":"29/03/2014","place":"Merkez, Batman","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":744,"name":"Tülay Erdoğan, 48","date":"28/03/2014","place":"Şehitkâmil, Gaziantep","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":743,"name":"Hatice Otur, 30","date":"26/03/2014","place":"Merkez, Ordu","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":742,"name":"Sevda Salyak, 22","date":"25/03/2014","place":"Merkez, Kahramanmaraş","who": "Erkek arkadaşı","cause":"Kadının evlenme isteği"},
+
+{"id":741,"name":"Zehra Tezcan, 40","date":"24/03/2014","place":"Ereğli, Konya","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":739,"name":"Semam Şimşek, 15","date":"19/03/2014","place":"Sinanpaşa, Afyonkarahisar","who": "Akrabası","cause":"Dolaylı"},
+
+{"id":738,"name":"Dudu Babayiğit, 18","date":"19/03/2014","place":"Sinanpaşa, Afyonkarahisar","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":737,"name":"Aysel Filizfidanoğlu, 33","date":"17/03/2014","place":"Karasu, Sakarya","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":736,"name":"Emine C., 32","date":"15/03/2014","place":"Alanya, Antalya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":734,"name":"Hanime Arslan, 43","date":"12/03/2014","place":"Şişli, Istanbul","who": "Oğlu","cause":"Namus/ töre"},
+
+{"id":735,"name":"Ayten Demir, 41","date":"11/03/2014","place":"Merkez, Elazığ","who": "Akrabası","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":733,"name":"Elif Beyza Ergen, 0","date":"10/03/2014","place":"Fethiye, Muğla","who": "Babası","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":732,"name":"Birgül Ergen, 35","date":"10/03/2014","place":"Fethiye, Muğla","who": "Kocası","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":731,"name":"Özge Gündoğan, 21","date":"07/03/2014","place":"Fatih, Istanbul","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":730,"name":"Aysel Aydemir, 34","date":"06/03/2014","place":"Tarsus, Mersin","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":728,"name":"Olga Vornikova, 42","date":"05/03/2014","place":"Şişli, Istanbul","who": "Oğlu","cause":"Tartışma/ kavga"},
+
+{"id":729,"name":"Zarsangh Faizi, 21","date":"05/03/2014","place":"Zeytinburnu, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":727,"name":"Ayşe Atıcı, 34","date":"05/03/2014","place":"Erzin, Hatay","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":724,"name":"Özlem Duran, 30","date":"04/03/2014","place":"Melikgazi, Kayseri","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":725,"name":"Rüya Duran, 1","date":"04/03/2014","place":"Melikgazi, Kayseri","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":726,"name":"Firdevs Yılmaz, 58","date":"04/03/2014","place":"Yıldırım, Bursa","who": "Kocası","cause":"Kadının akrabalarıyla görüşmesi"},
+
+{"id":723,"name":"Gönül Çiçek, 33","date":"02/03/2014","place":"Bozkır, Konya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":722,"name":"Hazal Şimşek, 18","date":"25/02/2014","place":"Merkez, Yozgat","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":740,"name":"Züleyha Kurt, 33","date":"25/02/2014","place":"Alanya, Antalya","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":721,"name":"Yankı Özkan Yıldırır, 42","date":"25/02/2014","place":"Sarıyer, Istanbul","who": "Kayınpederi","cause":"Kadının erkeğin kardeşine yardım etmesi"},
+
+{"id":717,"name":"Gönül Seferbay, 75","date":"23/02/2014","place":"Narlıdere, İzmir","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":718,"name":"Kadife Kurt, 70","date":"22/02/2014","place":"Tarsus, Mersin","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":719,"name":"Gülay Güçlücan, 39","date":"22/02/2014","place":"Çaycuma, Zonguldak","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":720,"name":"Fatime Kayabaşlık, 59","date":"22/02/2014","place":"Çaycuma, Zonguldak","who": "Damadı","cause":"Kadının erkeğin barışmasına engel olması"},
+
+{"id":716,"name":"Sevda Başar, 28","date":"18/02/2014","place":"Şahinbey, Gaziantep","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":715,"name":"Perihan Kostak, 24","date":"17/02/2014","place":"Tire, İzmir","who": "Kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":714,"name":"Sultan Gezici, 26","date":"15/02/2014","place":"Tarsus, Mersin","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":713,"name":"Çiçek Mayalı, 40","date":"11/02/2014","place":"Avcılar, Istanbul","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":712,"name":"Haskız Elik, 25","date":"06/02/2014","place":"Almus, Tokat","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":710,"name":"Rahşan Çetin, 34","date":"04/02/2014","place":"Şehitkâmil, Gaziantep","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":711,"name":"Güle Algan, 42","date":"04/02/2014","place":"Gercüş, Batman","who": "Dini nikahlı kocası","cause":"Bilinmiyor"},
+
+{"id":709,"name":"Hatice Göv, 19","date":"31/01/2014","place":"Viranşehir, Şanlıurfa","who": "Akrabası","cause":"Namus/ töre"},
+
+{"id":708,"name":"Ümmühan Yılmaz, 43","date":"29/01/2014","place":"Muratpaşa, Antalya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":707,"name":"Levin Çekirge, 74","date":"28/01/2014","place":"Balçova, İzmir","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":706,"name":"Yadigar Taşdelen, 34","date":"27/01/2014","place":"Karatay, Konya","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":705,"name":"Mübarek Turan, 33","date":"24/01/2014","place":"Kayapınar, Diyarbakır","who": "Kocası","cause":"Kadının erkek çocuk doğurmaması"},
+
+{"id":704,"name":"Şenay Gedik, 54","date":"24/01/2014","place":"İskenderun, Hatay","who": "Damadı","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":702,"name":"Servet Değirmenci, 48","date":"22/01/2014","place":"Merkez, Aydın","who": "Kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":703,"name":"K.t., 17","date":"22/01/2014","place":"Başakşehir, Istanbul","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":701,"name":"Mukaddes Tüfekçi, 47","date":"18/01/2014","place":"Akhisar, Manisa","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":700,"name":"Elmas Öztürk, 37","date":"16/01/2014","place":"Mucur, Kırşehir","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":698,"name":"Şengül Ünlüyayla, 42","date":"15/01/2014","place":"Bağcılar, Istanbul","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":699,"name":"Gülsenem Yuca, 36","date":"15/01/2014","place":"Merkez, Kars","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":696,"name":"Pervil Çetin, 42","date":"13/01/2014","place":"Merkez, Balıkesir","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":697,"name":"Hatice Dost, 33","date":"13/01/2014","place":"Tarsus, Mersin","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":695,"name":"Keziban Aydoğdu, 28","date":"13/01/2014","place":"Didim, Aydın","who": "Eski erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":693,"name":"Yonca Bayburan, 24","date":"11/01/2014","place":"Ergani, Diyarbakır","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":694,"name":"Zehra Alkan, 32","date":"11/01/2014","place":"Merkez, Şanlıurfa","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":692,"name":"Sebha Yücedağ, 45","date":"08/01/2014","place":"Merkez, Şanlıurfa","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":689,"name":"Ebru Erenler, 28","date":"02/01/2014","place":"Şişli, Istanbul","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":690,"name":"Yeşim Yalçıntaş, 30","date":"02/01/2014","place":"Ceyhan, Adana","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":691,"name":"Ayşe Bodur, 51","date":"02/01/2014","place":"Karatay, Konya","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":687,"name":"Hanife Doğramacı, 76","date":"31/12/2013","place":"Uzunköprü, Edirne","who": "Oğlu","cause":"Bilinmiyor"},
+
+{"id":688,"name":"Ayşe Güzel, 67","date":"31/12/2013","place":"Yalvaç, Isparta","who": "Kocası","cause":"Kadının nafaka talebi"},
+
+{"id":685,"name":"Nebiye Katırcı, 29","date":"30/12/2013","place":"Daday, Kastamonu","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":686,"name":"Hatun Aydın, 41","date":"30/12/2013","place":"Çiçekdağı, Kırşehir","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":684,"name":"Fatma Acar, 39","date":"29/12/2013","place":"Adapazarı, Sakarya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":683,"name":"Halime Özdoğan, 21","date":"29/12/2013","place":"Çukurova, Adana","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":682,"name":"Evrim Aktuğ, 31","date":"27/12/2013","place":"Zeytinburnu, Istanbul","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":681,"name":"Aslı Çelik, 19","date":"26/12/2013","place":"Toroslar, Mersin","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":680,"name":"Esma Ekinci, 37","date":"26/12/2013","place":"Muratpaşa, Antalya","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":679,"name":"Ayşe Bulut, 27","date":"23/12/2013","place":"Merkez, Uşak","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":678,"name":"Yüksel Nohut, 35","date":"22/12/2013","place":"Osmangazi, Bursa","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":672,"name":"Burçin Süsen, 15","date":"19/12/2013","place":"Bozkır, Konya","who": "Babası","cause":"Namus/ töre"},
+
+{"id":677,"name":"Serpil Erfındık, 38","date":"16/12/2013","place":"Buca, İzmir","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":675,"name":"Necla Arslan, 28","date":"16/12/2013","place":"Çınarcık, Yalova","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":676,"name":"Melek Yalçın, 42","date":"16/12/2013","place":"Merkez, Çorum","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":674,"name":"Cemile Torbalı, 51","date":"15/12/2013","place":"Serik, Antalya","who": "Damadı","cause":"Dolaylı"},
+
+{"id":673,"name":"Şeyma Şentürk, 20","date":"15/12/2013","place":"Serik, Antalya","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":671,"name":"Revzen Andaç, 58","date":"11/12/2013","place":"Esenyurt, Istanbul","who": "Kocası","cause":"Kadının erkeğe ilgi göstermemesi"},
+
+{"id":670,"name":"Hanife Aktaş, 23","date":"10/12/2013","place":"Merkez, Çorum","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":669,"name":"Emine Karataş, 33","date":"07/12/2013","place":"Yakutiye, Erzurum","who": "Tanıdığı bir erkek","cause":"Cinsel saldırı"},
+
+{"id":668,"name":"Nimet Çağan, 39","date":"06/12/2013","place":"Bağcılar, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":667,"name":"Ebru Torun Bilik, 26","date":"01/12/2013","place":"Ümraniye, Istanbul","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":666,"name":"Semra Ok, 35","date":"30/11/2013","place":"Seyhan, Adana","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":665,"name":"Nesrin Dayangençsevim, 36","date":"29/11/2013","place":"Şahinbey, Gaziantep","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":664,"name":"Zeynep Dikal, 35","date":"29/11/2013","place":"Edremit, Balıkesir","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":663,"name":"Zühre Aktaş, 80","date":"27/11/2013","place":"Çavdarhisar, Kütahya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":662,"name":"Nurgül Engin, 46","date":"25/11/2013","place":"Gönen, Balıkesir","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":661,"name":"Songül Malkoç, 17","date":"25/11/2013","place":"Yenişehir, Diyarbakır","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":660,"name":"Sevtap Pala, 25","date":"24/11/2013","place":"Çukurova, Adana","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":659,"name":"Ayfer Adıyeke, 19","date":"20/11/2013","place":"Şile, Istanbul","who": "Kayınpederi","cause":"Namus/ töre"},
+
+{"id":656,"name":"Hayriye Tan, 33","date":"18/11/2013","place":"Derince, Kocaeli","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":657,"name":"Taman Arayıcı, 37","date":"17/11/2013","place":"Hekimhan, Malatya","who": "Tanıdığı bir erkek","cause":"Kadının erkeği şikayet etmesi"},
+
+{"id":658,"name":"Fadime Çalışkan, 52","date":"17/11/2013","place":"Hekimhan, Malatya","who": "Tanıdığı bir erkek","cause":"Kadının erkeği şikayet etmesi"},
+
+{"id":655,"name":"Ebru Temiz","date":"15/11/2013","place":"Küçükçekmece, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":654,"name":"Fatma Demir, 28","date":"14/11/2013","place":"Hozat, Elazığ","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":653,"name":"Metanet Bağoğlu, 45","date":"12/11/2013","place":"Merkez, Kırıkkale","who": "Kocası","cause":"Kadının otomobil istemesi"},
+
+{"id":651,"name":"Dilen Özbir, 20","date":"06/11/2013","place":"Tuzla, Istanbul","who": "Babası","cause":"Erkeğin kuma getirme isteğinin reddedilmesi"},
+
+{"id":649,"name":"Zeynep Taş, 25","date":"06/11/2013","place":"Bismil, Diyarbakır","who": "Akrabası","cause":"Kadının yemek hazırlamaması"},
+
+{"id":650,"name":"Gülizar Özbir, 54","date":"06/11/2013","place":"Tuzla, Istanbul","who": "Dini nikahlı kocası","cause":"Erkeğin kuma getirme isteğinin reddedilmesi"},
+
+{"id":652,"name":"Rojda Özbir, 18","date":"06/11/2013","place":"Tuzla, Istanbul","who": "Babası","cause":"Erkeğin kuma getirme isteğinin reddedilmesi"},
+
+{"id":648,"name":"Leyla Berk, 39","date":"05/11/2013","place":"Develi, Kayseri","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":647,"name":"Dürdane Ergül, 46","date":"04/11/2013","place":"Haymana, Ankara","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":646,"name":"Emine Biçer, 39","date":"31/10/2013","place":"Altındağ, Ankara","who": "Erkek arkadaşı","cause":"Kaza iddiası"},
+
+{"id":645,"name":"Raziye Buruk, 37","date":"28/10/2013","place":"Çine, Aydın","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":644,"name":"Nuray Çelik, 23","date":"27/10/2013","place":"Kemalpaşa, İzmir","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":643,"name":"Gülbeyaz Şentürk, 32","date":"27/10/2013","place":"Şahinbey, Gaziantep","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":641,"name":"Sinem Çalışkan, 31","date":"26/10/2013","place":"Osmangazi, Bursa","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":642,"name":"Neslihan Kutlu, 23","date":"26/10/2013","place":"Silifke, Mersin","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":640,"name":"Nimet Gözübüyük, 40","date":"24/10/2013","place":"Mamak, Ankara","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":638,"name":"Emina Üçkaç, 21","date":"23/10/2013","place":"Cizre, Şırnak","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":639,"name":"Sevim Gündoğdu, 39","date":"23/10/2013","place":"Merkez, Uşak","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":635,"name":"Meltem Akış, 20","date":"21/10/2013","place":"Merkez, Iğdır","who": "Babası","cause":"Namus/ töre"},
+
+{"id":636,"name":"Elanur Akış, 4","date":"21/10/2013","place":"Merkez, Iğdır","who": "Akrabası","cause":"Namus/ töre"},
+
+{"id":637,"name":"Güvercin Alcan, 50","date":"21/10/2013","place":"Merkez, Iğdır","who": "Akrabası","cause":"Namus/ töre"},
+
+{"id":634,"name":"Ayşe Acar, 22","date":"18/10/2013","place":"Selçuklu, Konya","who": "Erkek arkadaşı","cause":"Maddi kaynaklı"},
+
+{"id":633,"name":"Emine İnceyol, 45","date":"16/10/2013","place":"Fatsa, Ordu","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":632,"name":"Gülbeyaz Özcan, 33","date":"15/10/2013","place":"Merkez, Batman","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":631,"name":"Yüksel Erdoğan, 46","date":"14/10/2013","place":"Kocasinan, Kayseri","who": "Erkek arkadaşı","cause":"Kadının elbise istemesi"},
+
+{"id":630,"name":"Sevda Yılmaz, 19","date":"13/10/2013","place":"Merkez, Denizli","who": "Kocası","cause":"Kadının çocuğu dövmesi"},
+
+{"id":629,"name":"Bedia Ateşal, 60","date":"13/10/2013","place":"Bağlar, Diyarbakır","who": "Oğlu","cause":"Namus/ töre"},
+
+{"id":628,"name":"Tevrat Ateşal, 26","date":"13/10/2013","place":"Bağlar, Diyarbakır","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":627,"name":"Sanem Kulan, 27","date":"12/10/2013","place":"Ereğli, Zonguldak","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":626,"name":"Gülşen Oran, 59","date":"07/10/2013","place":"Merkez, Batman","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":625,"name":"Ayfer Güleçoğlu, 18","date":"04/10/2013","place":"Şehitkâmil, Gaziantep","who": "Babası","cause":"Namus/ töre"},
+
+{"id":624,"name":"Emeti Eski, 36","date":"03/10/2013","place":"Merkez, Sivas","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":623,"name":"Zeynep Ertürk, 44","date":"30/09/2013","place":"Esenyurt, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":620,"name":"Zeliha Meral, 23","date":"28/09/2013","place":"Merkez, Elazığ","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":622,"name":"Amine Talvar","date":"28/09/2013","place":"Silvan, Diyarbakır","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":621,"name":"Ayten Sönmez, 42","date":"28/09/2013","place":"Merkez, Elazığ","who": "Damadı","cause":"Tartışma/ kavga"},
+
+{"id":619,"name":"Aysel Erol, 32","date":"27/09/2013","place":"Bafra, Samsun","who": "Akrabası","cause":"Hırsızlık"},
+
+{"id":618,"name":"Emine Yazar, 39","date":"25/09/2013","place":"Kemer, Antalya","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":617,"name":"Emine Fırat, 20","date":"25/09/2013","place":"Kadirli, Osmaniye","who": "Babası","cause":"Namus/ töre"},
+
+{"id":616,"name":"Elif Muhammet, 35","date":"23/09/2013","place":"Karabağlar, İzmir","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":613,"name":"Emine İpek, 27","date":"20/09/2013","place":"Merkez, Mardin","who": "Saldırgan","cause":"Kan davası"},
+
+{"id":615,"name":"Ayşe Sürer, 38","date":"20/09/2013","place":"Merkez, Mardin","who": "Saldırgan","cause":"Kan davası"},
+
+{"id":614,"name":"Narin İpek, 11","date":"20/09/2013","place":"Merkez, Mardin","who": "Saldırgan","cause":"Kan davası"},
+
+{"id":611,"name":"Ayfer Önen, 46","date":"19/09/2013","place":"İslahiye, Gaziantep","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":612,"name":"Canan Tanış, 36","date":"19/09/2013","place":"Bağlar, Diyarbakır","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":610,"name":"Sedef Berberoğlu, 26","date":"15/09/2013","place":"Ula, Muğla","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":609,"name":"Funda Ercan, 16","date":"14/09/2013","place":"Merkez, Zonguldak","who": "Babası","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":608,"name":"Mai Kurkiharac, 22","date":"13/09/2013","place":"Merkez, Nevşehir","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":605,"name":"Gamze Kaya, 20","date":"10/09/2013","place":"Ağlasun, Burdur","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":607,"name":"Ayşe Dal, 61","date":"10/09/2013","place":"Kozan, Adana","who": "Akrabası","cause":"Erkeğin gürültüden rahatsız olması"},
+
+{"id":606,"name":"Dudu Erez, 40","date":"10/09/2013","place":"Ağlasun, Burdur","who": "Akrabası","cause":"Dolaylı"},
+
+{"id":603,"name":"Özlem Taşoğlu, 16","date":"09/09/2013","place":"Mudanya, Bursa","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":604,"name":"Caterina Anna Bury, 56","date":"09/09/2013","place":"Ortaca, Muğla","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":602,"name":"Durdane Acun, 69","date":"08/09/2013","place":"Merkez, Aksaray","who": "Oğlu","cause":"Kadının gerçeği söylemesi"},
+
+{"id":601,"name":"Zerrin Canol, 50","date":"02/09/2013","place":"Karşıyaka, İzmir","who": "Tanıdığı bir erkek","cause":"Erkeğin gıcık olması"},
+
+{"id":600,"name":"Rojda Büyükertaş, 3","date":"01/09/2013","place":"Halfeti, Şanlıurfa","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":598,"name":"Nazliye Sincar, 64","date":"01/09/2013","place":"Küçükçekmece, Istanbul","who": "Eski kocası","cause":"Maddi kaynaklı"},
+
+{"id":597,"name":"Karin Sucu, 25","date":"01/09/2013","place":"Şişli, Istanbul","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":599,"name":"Fatma Büyükertaş, 25","date":"01/09/2013","place":"Halfeti, Şanlıurfa","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":596,"name":"Zeliha Şen, 63","date":"29/08/2013","place":"Erdemli, Mersin","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":595,"name":"Nilüfer Türkoğlu, 36","date":"28/08/2013","place":"Kayapınar, Diyarbakır","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":594,"name":"Kader Adak, 19","date":"27/08/2013","place":"Ortaköy, Aksaray","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":592,"name":"M.k., 36","date":"26/08/2013","place":"Yapraklı, Çankırı","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":593,"name":"Çilem Hülya Berkil, 30","date":"26/08/2013","place":"Döşemealtı, Antalya","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":591,"name":"Esra Yalçın, 31","date":"25/08/2013","place":"Çayırova, Kocaeli","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":590,"name":"Hadice Bozan, 67","date":"24/08/2013","place":"Samsat, Adıyaman","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":588,"name":"Özlem Görükmez, 30","date":"21/08/2013","place":"Bağlar, Diyarbakır","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":589,"name":"Songül Polat, 37","date":"21/08/2013","place":"Fatih, Istanbul","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":587,"name":"Özlem Akdağ, 37","date":"21/08/2013","place":"Bağlar, Diyarbakır","who": "Tanıdığı bir erkek","cause":"Kadının aleyhte tanıklık yapması"},
+
+{"id":586,"name":"Sebahat E., 8","date":"17/08/2013","place":"Merkez, Afyonkarahisar","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":585,"name":"Zeliha Çıkmaz, 37","date":"16/08/2013","place":"Tire, İzmir","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":584,"name":"Nevin Aksoy, 74","date":"15/08/2013","place":"Büyükçekmece, Istanbul","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":582,"name":"Kübra Kalaycı, 17","date":"14/08/2013","place":"Kağıthane, Istanbul","who": "Dini nikahlı kocası","cause":"Aldatılma şüphesi"},
+
+{"id":580,"name":"Eda Aydın, 33","date":"14/08/2013","place":"Merkez, Erzincan","who": "Kocası","cause":"Kadının gülmesi"},
+
+{"id":583,"name":"Yasemin Demir, 41","date":"14/08/2013","place":"Kağıthane, Istanbul","who": "Damadı","cause":"Dolaylı"},
+
+{"id":581,"name":"Yasemin Yüksel, 22","date":"14/08/2013","place":"Karaburun, İzmir","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":579,"name":"Ayten Öcel, 44","date":"13/08/2013","place":"Fatsa, Ordu","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":576,"name":"Hediye Atay, 73","date":"12/08/2013","place":"Sultanbeyli, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":578,"name":"Cemile Zengin, 47","date":"11/08/2013","place":"Salıpazarı, Samsun","who": "Damadı","cause":"Tartışma/ kavga"},
+
+{"id":575,"name":"Beyaz Bal, 36","date":"10/08/2013","place":"Beyoğlu, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":577,"name":"Aslı Demir, 22","date":"08/08/2013","place":"Hamur, Ağrı","who": "Dini nikahlı kocası","cause":"Aldatılma şüphesi"},
+
+{"id":574,"name":"Seher Çelik, 26","date":"07/08/2013","place":"Muratpaşa, Antalya","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":573,"name":"Masire K., 56","date":"05/08/2013","place":"Merkez, Iğdır","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":572,"name":"Serap Fırat, 41","date":"02/08/2013","place":"Merkez, Erzincan","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":571,"name":"Tülin Şenyıldızoğlu, 44","date":"01/08/2013","place":"Çeşme, İzmir","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":570,"name":"Nurgül Erbaş, 44","date":"29/07/2013","place":"Menderes, İzmir","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":569,"name":"Songül Yılmaz, 27","date":"21/07/2013","place":"Seyhan, Adana","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":568,"name":"Hatice Palta, 25","date":"17/07/2013","place":"Merkez, Uşak","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":567,"name":"Cüziyete Dünen, 47","date":"17/07/2013","place":"İzmit, Kocaeli","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":566,"name":"Gülşah Özdemiroğlu, 27","date":"16/07/2013","place":"Söke, Aydın","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":565,"name":"F.a., 23","date":"15/07/2013","place":"Merkez, Batman","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":563,"name":"Muazzez Mutlu, 32","date":"11/07/2013","place":"Bodrum, Muğla","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":564,"name":"Dora Özer, 24","date":"11/07/2013","place":"Kuşadası, Aydın","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":562,"name":"Ayşe Ç., 39","date":"09/07/2013","place":"Dinar, Afyonkarahisar","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":561,"name":"Zübeyde Ediz, 35","date":"02/07/2013","place":"Manavgat, Antalya","who": "Dini nikahlı kocası","cause":"Kıskançlık"},
+
+{"id":560,"name":"Muhterem Göçmen, 31","date":"28/06/2013","place":"Beşiktaş, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":556,"name":"Dilan Doğan, 18","date":"26/06/2013","place":"Doğubayazıt, Ağrı","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":559,"name":"Tuğba Aydın, 15","date":"25/06/2013","place":"Seydişehir, Konya","who": "Babası","cause":"Maddi kaynaklı"},
+
+{"id":555,"name":"Sabiha Uğuz, 54","date":"25/06/2013","place":"Gölcük, Kocaeli","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":558,"name":"Emine Aydın, 36","date":"25/06/2013","place":"Seydişehir, Konya","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":557,"name":"Dudu Bayar, 49","date":"24/06/2013","place":"Akşehir, Konya","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":554,"name":"Gönül Aksu, 53","date":"18/06/2013","place":"Bayrampaşa, Istanbul","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":553,"name":"Şükran Karakuş, 32","date":"16/06/2013","place":"Şehitkâmil, Gaziantep","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":552,"name":"Şengül Yarar, 39","date":"11/06/2013","place":"Kuşadası, Aydın","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":551,"name":"Seda Cevap, 21","date":"06/06/2013","place":"Bağlar, Diyarbakır","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":550,"name":"Fatma Doğar, 39","date":"05/06/2013","place":"Merkez, Iğdır","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":549,"name":"Meliha Sert, 37","date":"04/06/2013","place":"Merkez, Uşak","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":548,"name":"Havva Kabak, 14","date":"03/06/2013","place":"Karayazı, Erzurum","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":547,"name":"Elif Çakmak, 25","date":"02/06/2013","place":"Merkez, Düzce","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":546,"name":"Katibe Koşal, 68","date":"31/05/2013","place":"Malkara, Tekirdağ","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":545,"name":"Nazmiye Sönmez, 22","date":"30/05/2013","place":"Merkez, Denizli","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":544,"name":"Mevzüne Can, 39","date":"28/05/2013","place":"Merkez, Aydın","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":543,"name":"Yasemin Kahyaoğlu, 35","date":"26/05/2013","place":"Adapazarı, Sakarya","who": "Tanıdığı bir erkek","cause":"Dolaylı"},
+
+{"id":542,"name":"Sevim Kahyaoğlu, 18","date":"26/05/2013","place":"Adapazarı, Sakarya","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":541,"name":"Emine Demirci, 41","date":"23/05/2013","place":"Bornova, İzmir","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":540,"name":"Figen Özaslan, 38","date":"22/05/2013","place":"Yenimahalle, Ankara","who": "Kocası","cause":"Kadının erkeği şikayet etmesi"},
+
+{"id":539,"name":"Sibel Özkişi, 37","date":"20/05/2013","place":"Buca, İzmir","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":538,"name":"Esra Karaman, 24","date":"15/05/2013","place":"Beyoğlu, Istanbul","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":537,"name":"Sevtap Elmas, 24","date":"10/05/2013","place":"İskilip, Çorum","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":536,"name":"Perihan Deler, 19","date":"08/05/2013","place":"Şahinbey, Gaziantep","who": "Erkek arkadaşı","cause":"Erkeğin ayrılma isteğinin reddedilmesi"},
+
+{"id":535,"name":"Gülistan Askay, 16","date":"03/05/2013","place":"Akdeniz, Mersin","who": "Akrabası","cause":"Namus/ töre"},
+
+{"id":533,"name":"Gülşen Ertuğrul, 19","date":"30/04/2013","place":"Kozluk, Batman","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":534,"name":"Hatice Çıvkınoğlu, 39","date":"30/04/2013","place":"Kağıthane, Istanbul","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":532,"name":"Şahide G.","date":"29/04/2013","place":"Merkez, Düzce","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":531,"name":"Hatice Sarıkaya, 35","date":"27/04/2013","place":"Ürgüp, Nevşehir","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":530,"name":"Fatma Topak, 47","date":"27/04/2013","place":"Kestel, Bursa","who": "Eski erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":529,"name":"Pınar Yolver, 19","date":"19/04/2013","place":"Bayraklı, İzmir","who": "Kocası","cause":"Erkeğin erkekliğine laf söylenmesi"},
+
+{"id":528,"name":"Kıymet Demir, 26","date":"17/04/2013","place":"Akdeniz, Mersin","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":527,"name":"Fethiye Gökçen, 32","date":"13/04/2013","place":"Merkez, Manisa","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":526,"name":"Meryem Köseci, 68","date":"11/04/2013","place":"Altındağ, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":525,"name":"Selma Alasırt, 29","date":"10/04/2013","place":"Kadirli, Osmaniye","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":523,"name":"Gülcan Zengin, 33","date":"09/04/2013","place":"Kızıltepe, Mardin","who": "Erkek kardeşi","cause":"Erkeğin kadının evliliğini onaylamaması"},
+
+{"id":524,"name":"Atiye Özkan, 48","date":"09/04/2013","place":"Ereğli, Konya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":520,"name":"Hülya Aydın, 36","date":"08/04/2013","place":"Karşıyaka, İzmir","who": "Eski kocası","cause":"Kıskançlık"},
+
+{"id":522,"name":"Hürrem Babaoğlu, 33","date":"08/04/2013","place":"Manavgat, Antalya","who": "Diğer yakını","cause":"Dolaylı"},
+
+{"id":521,"name":"Şule Seçil Tengir, 37","date":"08/04/2013","place":"Manavgat, Antalya","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":519,"name":"Münire Balı, 49","date":"02/04/2013","place":"Çal, Denizli","who": "Damadı","cause":"Dolaylı"},
+
+{"id":518,"name":"Nurcan Dönmez, 38","date":"28/03/2013","place":"Merkez, Edirne","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":517,"name":"Gülşen Yavuz, 34","date":"26/03/2013","place":"Yenimahalle, Ankara","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":516,"name":"B.d.","date":"18/03/2013","place":"Keçiören, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":514,"name":"Sunay Özcan, 30","date":"17/03/2013","place":"Güngören, Istanbul","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":515,"name":"Fatma Birgül Baykara, 48","date":"17/03/2013","place":"Güngören, Istanbul","who": "Diğer yakını","cause":"Dolaylı"},
+
+{"id":513,"name":"Elena Suruç, 39","date":"15/03/2013","place":"Kemer, Antalya","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":512,"name":"Sebahat Sebetçi, 39","date":"10/03/2013","place":"Dalaman, Muğla","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":511,"name":"Gülcan Çelen, 38","date":"08/03/2013","place":"Turgutlu, Manisa","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":510,"name":"Hatice Meral, 41","date":"05/03/2013","place":"Darıca, Kocaeli","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":509,"name":"Didare Özel, 64","date":"04/03/2013","place":"Bornova, İzmir","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":507,"name":"Fatma Mercan, 31","date":"01/03/2013","place":"Dörtyol, Hatay","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":508,"name":"Nazlı Mercan, 0","date":"01/03/2013","place":"Dörtyol, Hatay","who": "Diğer yakını","cause":"Bilinmiyor"},
+
+{"id":506,"name":"Perihan İsaoğlu, 60","date":"01/03/2013","place":"Şehitkâmil, Gaziantep","who": "Damadı","cause":"Dolaylı"},
+
+{"id":505,"name":"Fatma Top, 57","date":"27/02/2013","place":"Sarıyer, Istanbul","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":504,"name":"Ayşe Acar, 25","date":"25/02/2013","place":"Karabağlar, İzmir","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":502,"name":"Aynur Zeliha Çakılkaya, 19","date":"05/02/2013","place":"Merkez, Adıyaman","who": "Erkek arkadaşı","cause":"Kadının evlenme isteği"},
+
+{"id":500,"name":"Fatma Aykanlı, 28","date":"04/02/2013","place":"Bergama, İzmir","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":501,"name":"İrem Kahya, 44","date":"04/02/2013","place":"Esenyurt, Istanbul","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":499,"name":"Damla Ay, 21","date":"03/02/2013","place":"Çarşamba, Samsun","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":496,"name":"Selvinaz Şahin, 60","date":"30/01/2013","place":"Seyhan, Adana","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":497,"name":"Ayşe Şahin, 31","date":"30/01/2013","place":"Seyhan, Adana","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":498,"name":"Nermin Şen, 48","date":"30/01/2013","place":"Sivaslı, Uşak","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":491,"name":"Zahide Çarıklı, 32","date":"22/01/2013","place":"Merkez, Denizli","who": "Oğlu","cause":"Namus/ töre"},
+
+{"id":490,"name":"Medine Özkan, 28","date":"22/01/2013","place":"Kulu, Konya","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":493,"name":"Mehtap Civelek, 25","date":"22/01/2013","place":"Gebze, Kocaeli","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":495,"name":"Hanife Telli, 36","date":"22/01/2013","place":"Gebze, Kocaeli","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":494,"name":"Sarai Sierra, 33","date":"21/01/2013","place":"Fatih, Istanbul","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":489,"name":"Tamuna Dundua, 31","date":"19/01/2013","place":"Canik, Samsun","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":487,"name":"Fevziye Melek Duman, 36","date":"17/01/2013","place":"Erciş, Van","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":488,"name":"Şerife Uysal, 32","date":"17/01/2013","place":"Ödemiş, İzmir","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":486,"name":"Aysel Geniş, 25","date":"16/01/2013","place":"İzmit, Kocaeli","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":485,"name":"Gönül Cihangir, 34","date":"15/01/2013","place":"Etimesgut, Ankara","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":483,"name":"Adeviye Genç, 25","date":"15/01/2013","place":"Nizip, Gaziantep","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":484,"name":"Emire Şendir, 54","date":"15/01/2013","place":"Nizip, Gaziantep","who": "Damadı","cause":"Dolaylı"},
+
+{"id":492,"name":"Havva Dönertaş, 56","date":"13/01/2013","place":"Meram, Konya","who": "Oğlu","cause":"Tartışma/ kavga"},
+
+{"id":482,"name":"Gülay Irmak, 28","date":"07/01/2013","place":"Doğanşehir, Malatya","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":481,"name":"Gülşan Sarcan, 25","date":"02/01/2013","place":"Eyüp, Istanbul","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1134,"name":"Sema Danyıldız, 33","date":"31/12/2012","place":"Avcılar, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1133,"name":"Gülcan Kodaş, 17","date":"29/12/2012","place":"Kayapınar, Diyarbakır","who": "Dini nikahlı kocası","cause":"Bilinmiyor"},
+
+{"id":1132,"name":"Hasret Daşlı, 15","date":"28/12/2012","place":"Kozluk, Batman","who": "Akrabası","cause":"Cinsel saldırı"},
+
+{"id":1131,"name":"Zeynep Ağamolla, 33","date":"23/12/2012","place":"Damal, Ardahan","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1129,"name":"Meliha Topçu, 57","date":"18/12/2012","place":"Kocasinan, Kayseri","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1128,"name":"Günce Hatun, 19","date":"17/12/2012","place":"Beylikdüzü, Istanbul","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":1127,"name":"Emel Sayın, 33","date":"14/12/2012","place":"Meram, Konya","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":1130,"name":"Cennet Özkaya, 22","date":"14/12/2012","place":"Yüreğir, Adana","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1126,"name":"Gülşah Aktürk, 27","date":"08/12/2012","place":"Selçuk, Konya","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1125,"name":"Kadriye Menkeş, 50","date":"06/12/2012","place":"İznik, Bursa","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1124,"name":"Dilek Sökmen, 51","date":"05/12/2012","place":"Fatih, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1123,"name":"Emine Yılmaz, 37","date":"04/12/2012","place":"Savur, Mardin","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1122,"name":"Pınar Ünlüer, 29","date":"03/12/2012","place":"Konak, İzmir","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":1121,"name":"Emine Çağlar, 50","date":"26/11/2012","place":"Ergani, Diyarbakır","who": "Damadı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1120,"name":"Hülya Kapıcı, 41","date":"25/11/2012","place":"Merkez, Erzincan","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1119,"name":"Zuhal Yaman, 39","date":"17/11/2012","place":"Yenişehir, Diyarbakır","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1117,"name":"Türkan Yılmaz, 35","date":"13/11/2012","place":"Kuşadası, Aydın","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1118,"name":"Emine Yayla, 17","date":"13/11/2012","place":"Adapazarı, Sakarya","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1116,"name":"Aslı Yıldırım, 34","date":"10/11/2012","place":"Tarsus, Mersin","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":1115,"name":"Aslıhan Sekendiz, 31","date":"06/11/2012","place":"Zeytinburnu, Istanbul","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":1110,"name":"Sacide Sargık, 38","date":"04/11/2012","place":"Bağcılar, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1112,"name":"Sevda Sargık, 15","date":"04/11/2012","place":"Bağcılar, Istanbul","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":1111,"name":"Suzan Sargık, 18","date":"04/11/2012","place":"Bağcılar, Istanbul","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":1113,"name":"Gülcan Sargık, 14","date":"04/11/2012","place":"Bağcılar, Istanbul","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":1114,"name":"Nuran K., 43","date":"03/11/2012","place":"Yerköy, Yozgat","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":1109,"name":"Leyla Kalkan, 32","date":"28/10/2012","place":"Merkez, Malatya","who": "Tanıdığı bir erkek","cause":"Maddi kaynaklı"},
+
+{"id":1108,"name":"Beyza Ziyan, 17","date":"27/10/2012","place":"Kadirli, Osmaniye","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":1107,"name":"Serap, 29","date":"24/10/2012","place":"Muratpaşa, Antalya","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":1106,"name":"Serpil Kömürcü, 25","date":"21/10/2012","place":"İzmit, Kocaeli","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":1105,"name":"Hatice Ç., 75","date":"17/10/2012","place":"Pınarbaşı, Kastamonu","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":1103,"name":"Fatma Nur Çelik, 20","date":"15/10/2012","place":"Bahçelievler, Istanbul","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":1104,"name":"Yeliz Özer, 31","date":"15/10/2012","place":"Yağlıdere, Giresun","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1102,"name":"Ümraniye Kaya, 55","date":"14/10/2012","place":"Biga, Çanakkale","who": "Damadı","cause":"Bilinmiyor"},
+
+{"id":1101,"name":"Hülya Işık, 38","date":"29/09/2012","place":"Yüreğir, Adana","who": "Dini nikahlı kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1100,"name":"Hacer Girgin, 38","date":"25/09/2012","place":"Merkez, Adıyaman","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1099,"name":"Zülfiye Öztürk, 36","date":"21/09/2012","place":"Mamak, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1098,"name":"Selda Duman, 34","date":"18/09/2012","place":"Merkez, Kırklareli","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1096,"name":"Iraz Ekinci, 28","date":"18/09/2012","place":"Odunpazarı, Eskişehir","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":1095,"name":"Asuman Uz, 41","date":"17/09/2012","place":"Merkez, Aksaray","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1094,"name":"Fatma Bilgin, 37","date":"16/09/2012","place":"Çerkezköy, Tekirdağ","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1093,"name":"Hatice Şahin, 31","date":"15/09/2012","place":"Canik, Samsun","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":1092,"name":"Sevilay Tuzluca, 26","date":"14/09/2012","place":"Küçükçekmece, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1091,"name":"Esra Adile Seyfi, 23","date":"13/09/2012","place":"Beykoz, Istanbul","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1097,"name":"Sultan Solmaz, 43","date":"11/09/2012","place":"Dinar, Afyonkarahisar","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1090,"name":"Cafiye Kaya, 52","date":"11/09/2012","place":"Melikgazi, Kayseri","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1089,"name":"Necla Yaprak, 19","date":"04/09/2012","place":"Kızıltepe, Mardin","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":1088,"name":"Hayriye Çal, 27","date":"02/09/2012","place":"Ceyhan, Adana","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1086,"name":"Dilber Elgin, 53","date":"29/08/2012","place":"Keçiören, Ankara","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":1087,"name":"Hatice Çetin, 20","date":"28/08/2012","place":"Çeşme, İzmir","who": "Akrabası","cause":"Yönlendirme"},
+
+{"id":1084,"name":"Songül Yılmaz, 19","date":"24/08/2012","place":"Çarşamba, Samsun","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":1085,"name":"Nebahat Özyağan, 49","date":"24/08/2012","place":"Konak, İzmir","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":1082,"name":"Emine Tuna, 75","date":"23/08/2012","place":"Nazilli, Aydın","who": "Oğlu","cause":"Bilinmiyor"},
+
+{"id":1081,"name":"Zuhal İbşanoğlu, 24","date":"23/08/2012","place":"Siverek, Şanlıurfa","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":1083,"name":"Emrah Dil, 41","date":"23/08/2012","place":"Seyhan, Adana","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":1080,"name":"Mediha Altan, 45","date":"22/08/2012","place":"Bayramiç, Çanakkale","who": "Diğer yakını","cause":"Dolaylı"},
+
+{"id":1079,"name":"Menice Kutlucan, 32","date":"20/08/2012","place":"Konak, İzmir","who": "Akrabası","cause":"Dolaylı"},
+
+{"id":1078,"name":"Sema Çelikoğlu, 25","date":"19/08/2012","place":"Ulus, Bartın","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":1077,"name":"Arzu Korkmaz, 25","date":"18/08/2012","place":"İnegöl, Bursa","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":1076,"name":"Bilinmiyor","date":"15/08/2012","place":"Sultangazi, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1075,"name":"Kamer Ünel, 58","date":"11/08/2012","place":"Toroslar, Mersin","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1074,"name":"Feride Aydın, 50","date":"11/08/2012","place":"Çeşme, İzmir","who": "Eski kocası","cause":"Maddi kaynaklı"},
+
+{"id":1073,"name":"Sadiye Döner, 51","date":"05/08/2012","place":"İskenderun, Hatay","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1072,"name":"Hülya Gençoğlu, 27","date":"05/08/2012","place":"Merkez, Çorum","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":1071,"name":"Gürcü İlbay, 28","date":"01/08/2012","place":"Sorgun, Yozgat","who": "Kocası","cause":"Kadının eve geç gelmesi"},
+
+{"id":1070,"name":"Ayten Taşdelen, 55","date":"31/07/2012","place":"Eyüp, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1069,"name":"Şerife Yarar, 37","date":"30/07/2012","place":"Bornova, İzmir","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1068,"name":"Mine Sezer, 32","date":"29/07/2012","place":"Yenimahalle, Ankara","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1067,"name":"Derya Dağı, 24","date":"28/07/2012","place":"Dörtdivan, Bolu","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":1066,"name":"Cemre Nur, 2","date":"27/07/2012","place":"Gebze, Kocaeli","who": "Babası","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":1065,"name":"Derya Akar, 30","date":"27/07/2012","place":"Küçükçekmece, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1064,"name":"Melek Karaaslan, 24","date":"25/07/2012","place":"Hamur, Ağrı","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1063,"name":"Gülnara Bak, 43","date":"24/07/2012","place":"Atakum, Samsun","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":1062,"name":"Nezihe Yavuz, 31","date":"23/07/2012","place":"Merkez, Kahramanmaraş","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":1061,"name":"Melike Demirel, 25","date":"20/07/2012","place":"Konak, İzmir","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1060,"name":"Zahide Feyzioğlu, 33","date":"19/07/2012","place":"Küçükçekmece, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1059,"name":"Mahmure Karakule, 19","date":"18/07/2012","place":"Fatih, Istanbul","who": "Dini nikahlı kocası","cause":"Kadının patates köfte yapmaması"},
+
+{"id":1058,"name":"Gülay Çatuk, 37","date":"12/07/2012","place":"Ümraniye, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1057,"name":"Asiye Alabay, 46","date":"07/07/2012","place":"Merkez, Çankırı","who": "Kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":1056,"name":"Gülşah Karakafa, 25","date":"07/07/2012","place":"Yenimahalle, Ankara","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1055,"name":"Neriman Acır, 29","date":"04/07/2012","place":"Bahçelievler, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1054,"name":"Sündüs Şen, 36","date":"02/07/2012","place":"Çorlu, Tekirdağ","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1053,"name":"Neşe Sidar, 24","date":"01/07/2012","place":"Ümraniye, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1052,"name":"Zeynep Ece Sevim, 31","date":"29/06/2012","place":"Yenimahalle, Ankara","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":1050,"name":"Zekiye D., 13","date":"28/06/2012","place":"Şahinbey, Gaziantep","who": "Babası","cause":"Namus/ töre"},
+
+{"id":1051,"name":"Nilgün Çay, 33","date":"28/06/2012","place":"Aksu, Antalya","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":1049,"name":"Hülya Ç., 30","date":"27/06/2012","place":"Bağlar, Diyarbakır","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1047,"name":"Büşra Özer, 25","date":"26/06/2012","place":"Karacabey, Bursa","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1048,"name":"Nazmiye Cece, 48","date":"26/06/2012","place":"Karacabey, Bursa","who": "Damadı","cause":"Dolaylı"},
+
+{"id":1046,"name":"Fatma Keskin, 83","date":"24/06/2012","place":"Sungurlu, Çorum","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1045,"name":"Esin Tavaslı, 32","date":"23/06/2012","place":"Milas, Muğla","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":1044,"name":"Aysel Çınar, 32","date":"19/06/2012","place":"Ceyhan, Adana","who": "Damadı","cause":"Dolaylı"},
+
+{"id":1043,"name":"İpek Çınar, 18","date":"19/06/2012","place":"Ceyhan, Adana","who": "Dini nikahlı kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1042,"name":"Türkan Fatma Barış, 22","date":"14/06/2012","place":"Merkez, Elazığ","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":1041,"name":"Havvanur Kaya, 41","date":"07/06/2012","place":"Merkez, Kars","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1040,"name":"İlknur E.","date":"05/06/2012","place":"Keçiören, Ankara","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1039,"name":"Sibel Akgül, 23","date":"03/06/2012","place":"Keçiören, Ankara","who": "Babası","cause":"Dolaylı"},
+
+{"id":1038,"name":"Gülsüm Ata, 48","date":"03/06/2012","place":"Keçiören, Ankara","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1037,"name":"Pınar Altun, 19","date":"31/05/2012","place":"Antakya, Hatay","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":1036,"name":"Damla Şenler, 24","date":"27/05/2012","place":"Konak, İzmir","who": "Dini nikahlı kocası","cause":"Kadının erkeğin kardeşine yardım etmesi"},
+
+{"id":1035,"name":"Demet Üçer, 25","date":"24/05/2012","place":"Melikgazi, Kayseri","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1032,"name":"Melek Gedik, 35","date":"23/05/2012","place":"Gemlik, Bursa","who": "Kocası","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":1033,"name":"Ayşegül Biçer, 25","date":"23/05/2012","place":"Burhaniye, Balıkesir","who": "Erkek kardeşi","cause":"Tartışma/ kavga"},
+
+{"id":1031,"name":"Esra Bilen, 25","date":"23/05/2012","place":"Merkez, Aksaray","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1034,"name":"Saime Y., 49","date":"23/05/2012","place":"Burhaniye, Balıkesir","who": "Oğlu","cause":"Dolaylı"},
+
+{"id":1030,"name":"Dilber Yılmaz, 29","date":"21/05/2012","place":"Selçuklu, Konya","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1029,"name":"Medine Bakırcı, 67","date":"20/05/2012","place":"Tire, İzmir","who": "Tanıdığı bir erkek","cause":"Dolaylı"},
+
+{"id":1027,"name":"Leyla Aydın, 23","date":"16/05/2012","place":"Saray, Tekirdağ","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1026,"name":"Nuriye Yaşar, 30","date":"14/05/2012","place":"Erfelek, Sinop","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1025,"name":"Şakire Maviş, 36","date":"12/05/2012","place":"Sarıyer, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":1024,"name":"Fatma Tanrıkulu, 56","date":"10/05/2012","place":"Karabağlar, İzmir","who": "Kocası","cause":"Kadının erkeği şikayet etmesi"},
+
+{"id":1028,"name":"Elif Güleç, 26","date":"10/05/2012","place":"Merkez, Aksaray","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1023,"name":"Zeynep Köksal, 40","date":"09/05/2012","place":"Selçuk, İzmir","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":1022,"name":"Ayşe Karabatak, 55","date":"03/05/2012","place":"Çankaya, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1021,"name":"Tuğba Genç, 17","date":"01/05/2012","place":"Çukurova, Adana","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1020,"name":"Bediha Oral, 21","date":"29/04/2012","place":"Karakoçan, Elazığ","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":1019,"name":"Elif Karanlıkbulut, 20","date":"26/04/2012","place":"Yakutiye, Erzurum","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1017,"name":"Ayşe İnce, 34","date":"25/04/2012","place":"Küçükçekmece, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":1018,"name":"Alev Karakavuk, 30","date":"25/04/2012","place":"Tarsus, Mersin","who": "Eski kocası","cause":"Kıskançlık"},
+
+{"id":1016,"name":"Nurcan Özcan, 43","date":"22/04/2012","place":"Nilüfer, Bursa","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1015,"name":"Özlem Üstün, 35","date":"17/04/2012","place":"Çorlu, Tekirdağ","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":1014,"name":"Birsen Candan, 44","date":"17/04/2012","place":"İlkadım, Samsun","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1013,"name":"Gülcan Sütçü, 21","date":"14/04/2012","place":"Başkale, Van","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1012,"name":"Özlem Dağlıoğlu, 26","date":"12/04/2012","place":"Kozan, Adana","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1011,"name":"Nükhet Kızılkaya, 23","date":"06/04/2012","place":"Kuşadası, Aydın","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":1010,"name":"Hülya Gümüş, 50","date":"05/04/2012","place":"Cihanbeyli, Konya","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1009,"name":"Tuğçe Şahingün, 23","date":"30/03/2012","place":"Karabağlar, İzmir","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":1007,"name":"Demet Filcan, 30","date":"28/03/2012","place":"Silivri, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":1008,"name":"Ş.b., 25","date":"28/03/2012","place":"Kula, Manisa","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":307,"name":"Şükran Bacak, 25","date":"28/03/2012","place":"Kula, Manisa","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1006,"name":"Fatma Gezen, 18","date":"27/03/2012","place":"Konak, İzmir","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":1004,"name":"Suzan Yıldırım, 28","date":"26/03/2012","place":"Karacabey, Bursa","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1005,"name":"Esme Türk, 48","date":"26/03/2012","place":"Fatsa, Ordu","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":1003,"name":"Yasemin Bayram, 27","date":"25/03/2012","place":"Bağcılar, Istanbul","who": "Eski kocası","cause":"Kıskançlık"},
+
+{"id":1002,"name":"Naime Solmaz, 74","date":"23/03/2012","place":"Ceylanpınar, Şanlıurfa","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":1001,"name":"Funda Yıldırım, 28","date":"11/03/2012","place":"Altındağ, Ankara","who": "Erkek arkadaşı","cause":"Erkeğin kadının işini onaylamaması"},
+
+{"id":1000,"name":"Diyar Japarzade Bengitay, 40","date":"09/03/2012","place":"Pendik, Istanbul","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":996,"name":"Tülin Kaplan, 32","date":"29/02/2012","place":"Keçiören, Ankara","who": "Kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":997,"name":"Sebahat Gezer, 33","date":"29/02/2012","place":"Konak, İzmir","who": "Eski kocası","cause":"Aldatılma şüphesi"},
+
+{"id":998,"name":"Feride Canıbol, 31","date":"28/02/2012","place":"Ümraniye, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":995,"name":"İnci Önal, 28","date":"27/02/2012","place":"Serik, Antalya","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":994,"name":"Yıldız Yardım, 26","date":"26/02/2012","place":"Bağcılar, Istanbul","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":991,"name":"Eda Küçük, 22","date":"24/02/2012","place":"Etimesgut, Ankara","who": "Babası","cause":"Kaza iddiası"},
+
+{"id":992,"name":"Beyza Yılmaz, 19","date":"24/02/2012","place":"Pendik, Istanbul","who": "Kocası","cause":"Kadının facebook hesabı açması"},
+
+{"id":993,"name":"Fatma Çetin, 22","date":"24/02/2012","place":"Merkez, Niğde","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":990,"name":"Fatmagül Yalçın, 16","date":"23/02/2012","place":"Kadirli, Osmaniye","who": "Saldırgan","cause":"Dolaylı"},
+
+{"id":989,"name":"Fatmanur Gedik, 16","date":"23/02/2012","place":"Kadirli, Osmaniye","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":988,"name":"Ferhat Hızarcı, 29","date":"22/02/2012","place":"Merkez, Kastamonu","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":986,"name":"Dudu Çıklaşahin, 80","date":"21/02/2012","place":"Kocasinan, Kayseri","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":987,"name":"Nilüfer Aygüler, 25","date":"21/02/2012","place":"Sultangazi, Istanbul","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":985,"name":"Nadiyne Yıldız, 26","date":"19/02/2012","place":"Melikgazi, Kayseri","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":984,"name":"Yağmur Çırpan, 24","date":"15/02/2012","place":"Bodrum, Muğla","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":983,"name":"Melda Yüksel, 26","date":"14/02/2012","place":"İzmit, Kocaeli","who": "Erkek kardeşi","cause":"Bilinmiyor"},
+
+{"id":978,"name":"Ayşe Hanay, 23","date":"14/02/2012","place":"Çaldıran, Van","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":980,"name":"Ayşegül Bal, 52","date":"13/02/2012","place":"Merkez, Balıkesir","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":982,"name":"Serap Gördebil, 38","date":"13/02/2012","place":"Kadıköy, Istanbul","who": "Tanıdığı bir erkek","cause":"Maddi kaynaklı"},
+
+{"id":981,"name":"Necla Tanrıverdi, 42","date":"13/02/2012","place":"Merkez, Kahramanmaraş","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":977,"name":"Ayşe Demir, 30","date":"11/02/2012","place":"Altındağ, Ankara","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":979,"name":"Sevda Sonay, 35","date":"11/02/2012","place":"Keçiören, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":976,"name":"Vezne Yalçınkaya, 46","date":"10/02/2012","place":"Merkez, Manisa","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":975,"name":"Naile Çatak, 19","date":"10/02/2012","place":"Ceylanpınar, Şanlıurfa","who": "Erkek arkadaşı","cause":"Erkeğin ayrılma isteğinin reddedilmesi"},
+
+{"id":974,"name":"Fatma Yılmaz, 40","date":"09/02/2012","place":"Pursaklar, Ankara","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":972,"name":"Hatice Karaca, 25","date":"05/02/2012","place":"Merkez, Uşak","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":973,"name":"Özge Tingir, 18","date":"05/02/2012","place":"İncirliova, Aydın","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":971,"name":"Helin Şayan Sert, 2","date":"03/02/2012","place":"Yenişehir, Diyarbakır","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":999,"name":"Neslihan Polatbilek, 29","date":"03/02/2012","place":"Şehitkâmil, Gaziantep","who": "Tanıdığı bir erkek","cause":"Tartışma/ kavga"},
+
+{"id":969,"name":"Songül Sert, 33","date":"03/02/2012","place":"Yenişehir, Diyarbakır","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":970,"name":"Havin Besta Sert, 2","date":"03/02/2012","place":"Yenişehir, Diyarbakır","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":968,"name":"Öznur Delibaş, 23","date":"28/01/2012","place":"Pendik, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":967,"name":"Türkan Sevinç, 33","date":"21/01/2012","place":"Ezine, Çanakkale","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":965,"name":"Mihrican Göğebakan, 17","date":"19/01/2012","place":"İslahiye, Gaziantep","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":966,"name":"İraz Göğebakan, 43","date":"19/01/2012","place":"İslahiye, Gaziantep","who": "Damadı","cause":"Bilinmiyor"},
+
+{"id":964,"name":"Zeynep Yüksel, 47","date":"17/01/2012","place":"Karatay, Konya","who": "Oğlu","cause":"Namus/ töre"},
+
+{"id":963,"name":"İrem Demirkan, 7","date":"15/01/2012","place":"Manavgat, Antalya","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":962,"name":"Ayşegül Demirkan, 35","date":"15/01/2012","place":"Manavgat, Antalya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":961,"name":"Nuriye Akkoyun, 60","date":"12/01/2012","place":"Sarıyer, Istanbul","who": "Oğlu","cause":"Tartışma/ kavga"},
+
+{"id":960,"name":"Selda Akgüneş, 38","date":"07/01/2012","place":"Çankaya, Ankara","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":959,"name":"Hatice Alkan, 25","date":"05/01/2012","place":"Çerkezköy, Tekirdağ","who": "Akrabası","cause":"Tartışma/ kavga"},
+
+{"id":958,"name":"Emine Yergelen, 22","date":"04/01/2012","place":"Seyhan, Adana","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":957,"name":"Pınar Karik, 27","date":"03/01/2012","place":"Dilovası, Kocaeli","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":956,"name":"Şefika Şalka, 48","date":"02/01/2012","place":"Merkez, Şanlıurfa","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":955,"name":"Sultan Bakır, 23","date":"01/01/2012","place":"Muratpaşa, Antalya","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":480,"name":"Hacer A., 21","date":"28/12/2011","place":"Kâhta, Adıyaman","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":478,"name":"Viktoria Sarı, 33","date":"24/12/2011","place":"Muratpaşa, Antalya","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":479,"name":"Ş.d., 12","date":"24/12/2011","place":"Merkez, Kahramanmaraş","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":477,"name":"Ayşe Silinmez, 58","date":"23/12/2011","place":"Hendek, Sakarya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":476,"name":"Bediha Yavuz, 32","date":"23/12/2011","place":"Karamürsel, Kocaeli","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":475,"name":"Meltem Çeviker, 19","date":"20/12/2011","place":"Merkez, Nevşehir","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":474,"name":"Havva Akyıldız, 22","date":"20/12/2011","place":"Akçadağ, Malatya","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":473,"name":"Esengül Köse, 16","date":"19/12/2011","place":"Merzifon, Amasya","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":472,"name":"Şemsiye Süslü, 36","date":"19/12/2011","place":"Merzifon, Amasya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":470,"name":"Birsen Güneren, 65","date":"16/12/2011","place":"Avanos, Nevşehir","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":471,"name":"Nazgül Erdem, 45","date":"15/12/2011","place":"Çayırova, Kocaeli","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":468,"name":"Hacer Türüt, 30","date":"14/12/2011","place":"Merkez, Trabzon","who": "Dini nikahlı kocası","cause":"Aldatılma şüphesi"},
+
+{"id":469,"name":"Sündüs Keleş, 33","date":"14/12/2011","place":"Cihanbeyli, Konya","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":467,"name":"Sibel Yılmaz, 24","date":"14/12/2011","place":"Alaplı, Zonguldak","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":466,"name":"Sati S., 45","date":"09/12/2011","place":"Zile, Tokat","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":465,"name":"Reyhan Aykurt, 34","date":"05/12/2011","place":"Merkez, Denizli","who": "Eski kocası","cause":"Maddi kaynaklı"},
+
+{"id":464,"name":"Gülay Armağan, 36","date":"03/12/2011","place":"Ümraniye, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":463,"name":"Aliye Özdemir, 66","date":"26/11/2011","place":"Muratpaşa, Antalya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":461,"name":"Semra Çetin, 21","date":"23/11/2011","place":"İnegöl, Bursa","who": "Tanıdığı bir erkek","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":460,"name":"Adile Kırıkkale, 57","date":"20/11/2011","place":"Konyaaltı, Antalya","who": "Dini nikahlı kocası","cause":"Namus/ töre"},
+
+{"id":458,"name":"Tülay Erdivan Çaylak, 31","date":"17/11/2011","place":"Çekmeköy, Istanbul","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":459,"name":"Halime Ceviz, 30","date":"17/11/2011","place":"Çukurova, Adana","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":455,"name":"Kifayet Alan, 40","date":"15/11/2011","place":"Merkez, Kahramanmaraş","who": "Akrabası","cause":"Namus/ töre"},
+
+{"id":456,"name":"Songül Gökdel, 22","date":"15/11/2011","place":"Merkez, Denizli","who": "Kayınpederi","cause":"Namus/ töre"},
+
+{"id":462,"name":"Ebru Ağca, 40","date":"14/11/2011","place":"Kozan, Adana","who": "Oğlu","cause":"Bilinmiyor"},
+
+{"id":454,"name":"Atiye Yazıcıoğlu, 37","date":"13/11/2011","place":"Selçuklu, Konya","who": "Kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":453,"name":"Necla Kaplan, 42","date":"12/11/2011","place":"Çorlu, Tekirdağ","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":457,"name":"Ayşe Cömert, 55","date":"12/11/2011","place":"Keçiören, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":452,"name":"Damla Arkalı, 16","date":"06/11/2011","place":"Beydağ, İzmir","who": "Diğer yakını","cause":"Erkeğin kadının evliliğini onaylamaması"},
+
+{"id":451,"name":"Gülşen Duman, 42","date":"06/11/2011","place":"Beydağ, İzmir","who": "Kocası","cause":"Erkeğin kadının evliliğini onaylamaması"},
+
+{"id":450,"name":"Songül Solak, 28","date":"02/11/2011","place":"Ceyhan, Adana","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":449,"name":"Sevim Toktaş, 19","date":"01/11/2011","place":"Şehitkâmil, Gaziantep","who": "Babası","cause":"Erkeğin kadının evliliğini onaylamaması"},
+
+{"id":447,"name":"Yasemin Özdemir, 36","date":"31/10/2011","place":"Gemlik, Bursa","who": "Saldırgan","cause":"Sebepsiz"},
+
+{"id":448,"name":"Özge Barışkan, 18","date":"29/10/2011","place":"Çankaya, Ankara","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":446,"name":"Dilek Tuncer, 30","date":"27/10/2011","place":"Yıldırım, Bursa","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":445,"name":"Faize İlban, 30","date":"26/10/2011","place":"Şahinbey, Gaziantep","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":443,"name":"Nurhan Çadırcı, 24","date":"21/10/2011","place":"Kuşadası, Aydın","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":444,"name":"Songül Karakoç, 31","date":"19/10/2011","place":"Kartal, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":441,"name":"Fatma Erek, 20","date":"14/10/2011","place":"Şehitkâmil, Gaziantep","who": "Dini nikahlı kocası","cause":"Erkeğin ayrılma isteğinin reddedilmesi"},
+
+{"id":442,"name":"Ferdane Çöl, 28","date":"14/10/2011","place":"Bornova, İzmir","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":439,"name":"Yıldız Yasavul, 15","date":"13/10/2011","place":"Merkez, Kahramanmaraş","who": "Babası","cause":"Namus/ töre"},
+
+{"id":438,"name":"Gülbeyaz Işık, 35","date":"12/10/2011","place":"Keçiören, Ankara","who": "Oğlu","cause":"Namus/ töre"},
+
+{"id":440,"name":"Figen Köçer, 32","date":"12/10/2011","place":"Bandırma, Balıkesir","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":437,"name":"Nebiye Özdemir, 34","date":"10/10/2011","place":"Çerkeş, Çankırı","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":436,"name":"Güneş Koca, 30","date":"08/10/2011","place":"Merkez, Osmaniye","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":435,"name":"Şefika Etik, 33","date":"08/10/2011","place":"Merkez, Manisa","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":434,"name":"Ramazan Çetin, 24","date":"07/10/2011","place":"Şahinbey, Gaziantep","who": "Erkek kardeşi","cause":"Cinsiyet kimliği"},
+
+{"id":433,"name":"Filiz Aktaş, 25","date":"06/10/2011","place":"Menemen, İzmir","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":432,"name":"Sevda K., 20","date":"04/10/2011","place":"Pazar, Tokat","who": "Dini nikahlı kocası","cause":"Bilinmiyor"},
+
+{"id":431,"name":"Kezban C., 52","date":"02/10/2011","place":"Aslanapa, Kütahya","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":430,"name":"Hayriye Yakıcı, 47","date":"01/10/2011","place":"Tarsus, Mersin","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":429,"name":"Ayşegül D., 32","date":"27/09/2011","place":"Merkez, Elazığ","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":427,"name":"İnci Sezer, 34","date":"26/09/2011","place":"İzmit, Kocaeli","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":425,"name":"Eylem Güneş, 34","date":"25/09/2011","place":"Merkez, Kırıkkale","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":426,"name":"Hülya Güler, 39","date":"25/09/2011","place":"Karataş, Adana","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":423,"name":"Bircan Arslan, 35","date":"24/09/2011","place":"Merkez, Denizli","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":424,"name":"Meva Yayla, 33","date":"24/09/2011","place":"Çınarcık, Yalova","who": "Eski kocası","cause":"Kıskançlık"},
+
+{"id":428,"name":"Fatma Aslan, 80","date":"24/09/2011","place":"Tarsus, Mersin","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":421,"name":"Dürdane Duran, 23","date":"22/09/2011","place":"Selçuklu, Konya","who": "Erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":422,"name":"Seher Kocaman, 22","date":"21/09/2011","place":"Merkez, Bolu","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":420,"name":"İpek Akkoyun, 32","date":"19/09/2011","place":"Adapazarı, Sakarya","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":419,"name":"Aynur Çeçen, 31","date":"17/09/2011","place":"Kocasinan, Kayseri","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":418,"name":"Bahar Aydoğmuş, 29","date":"16/09/2011","place":"Bergama, İzmir","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":417,"name":"Mürvet Acar, 22","date":"15/09/2011","place":"Ergani, Diyarbakır","who": "Erkek kardeşi","cause":"Kaza iddiası"},
+
+{"id":416,"name":"Kamile Özbek, 48","date":"14/09/2011","place":"Merkez, Kahramanmaraş","who": "Erkek arkadaşı","cause":"Maddi kaynaklı"},
+
+{"id":415,"name":"Hayret Çamlı, 65","date":"09/09/2011","place":"Sarıkamış, Kars","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":414,"name":"Şerife Cantürk, 30","date":"09/09/2011","place":"Çukurova, Adana","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":413,"name":"Züleyha Bildiş, 32","date":"08/09/2011","place":"Silifke, Mersin","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":412,"name":"Nesrin Suiçmez, 24","date":"08/09/2011","place":"Çayeli, Rize","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":411,"name":"Döndü Demirci, 49","date":"05/09/2011","place":"Akkuş, Ordu","who": "Kocası","cause":"Kadının erkeği şikayet etmesi"},
+
+{"id":410,"name":"Zeynep Gökçe, 34","date":"03/09/2011","place":"Şişli, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":409,"name":"Zahide Goncagül, 19","date":"02/09/2011","place":"Toroslar, Mersin","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":407,"name":"Döndü Arıkan, 51","date":"01/09/2011","place":"Keçiören, Ankara","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":408,"name":"Kader Demiroğlu, 14","date":"01/09/2011","place":"Devrek, Zonguldak","who": "Tanıdığı bir erkek","cause":"Kıskançlık"},
+
+{"id":406,"name":"Asiye Özcan, 39","date":"30/08/2011","place":"Karapürçek, Sakarya","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":405,"name":"Semiha Çobanoğlu, 58","date":"25/08/2011","place":"Merkez, Kastamonu","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":403,"name":"Armağan Altay, 33","date":"25/08/2011","place":"Merkez, Zonguldak","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":402,"name":"Seyhan Temür, 21","date":"24/08/2011","place":"Merkez, Çorum","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":404,"name":"Yeşim Baytar, 35","date":"24/08/2011","place":"Menderes, İzmir","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":401,"name":"Ezgi Köseoğlu, 22","date":"22/08/2011","place":"Seyhan, Adana","who": "Kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":400,"name":"Yüksel T.","date":"19/08/2011","place":"Haymana, Ankara","who": "Damadı","cause":"Tartışma/ kavga"},
+
+{"id":399,"name":"Cathy Dinsmore, 50","date":"19/08/2011","place":"Buca, İzmir","who": "Tanıdığı bir erkek","cause":"Kadının erkeğin evlenmesine engel olması"},
+
+{"id":398,"name":"Marion Elizabeth Graham, 54","date":"19/08/2011","place":"Buca, İzmir","who": "Tanıdığı bir erkek","cause":"Kadının erkeğin evlenmesine engel olması"},
+
+{"id":397,"name":"Kezban İncebacak, 63","date":"17/08/2011","place":"Ataşehir, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":396,"name":"Yeşim Özdiken, 27","date":"09/08/2011","place":"Merkez, Uşak","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":394,"name":"Merve Öztürk, 24","date":"04/08/2011","place":"Merkez, Giresun","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":395,"name":"Büşra Koç, 20","date":"04/08/2011","place":"Menemen, İzmir","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":393,"name":"Sevinç Döger, 38","date":"03/08/2011","place":"Merkez, Van","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":391,"name":"Didem Soral, 24","date":"01/08/2011","place":"Fatih, Istanbul","who": "Saldırgan","cause":"Cinsiyet kimliği"},
+
+{"id":392,"name":"Elem Ünal, 30","date":"01/08/2011","place":"Seyhan, Adana","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":390,"name":"Derya Genç, 23","date":"31/07/2011","place":"Tepebaşı, Eskişehir","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":389,"name":"Gülnaz Erol, 28","date":"30/07/2011","place":"Merkez, Van","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":387,"name":"Müzeyyen Yanıkbaş, 41","date":"29/07/2011","place":"Sultangazi, Istanbul","who": "Eski kocası","cause":"Aldatılma şüphesi"},
+
+{"id":388,"name":"Gülsüm Korkmaz, 53","date":"29/07/2011","place":"Merkez, Burdur","who": "Damadı","cause":"Kadının küsmesi"},
+
+{"id":386,"name":"Meliha Karaduman, 37","date":"28/07/2011","place":"Akdeniz, Mersin","who": "Erkek arkadaşı","cause":"Kadının hakaret etmesi"},
+
+{"id":385,"name":"Naile Ekinci, 34","date":"24/07/2011","place":"Çankaya, Ankara","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":384,"name":"Semra Aras, 30","date":"22/07/2011","place":"Merkez, Kars","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":383,"name":"Ceylan Soysal, 21","date":"20/07/2011","place":"Dörtyol, Hatay","who": "Akrabası","cause":"Namus/ töre"},
+
+{"id":382,"name":"Neslihan Adıgüzel, 26","date":"19/07/2011","place":"Buca, İzmir","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":381,"name":"İlknur Büyükyazıcı, 36","date":"17/07/2011","place":"Kartepe, Kocaeli","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":380,"name":"Ayten Demirörs, 45","date":"15/07/2011","place":"Bornova, İzmir","who": "Kocası","cause":"Kadının yazlık ev istemesi"},
+
+{"id":378,"name":"Gamze Dikgöz, 16","date":"14/07/2011","place":"Gaziosmanpaşa, Istanbul","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":379,"name":"Ebru Acay, 24","date":"14/07/2011","place":"Meram, Konya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":377,"name":"Emine Özbay, 45","date":"12/07/2011","place":"Ünye, Ordu","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":374,"name":"Adalet T., 20","date":"09/07/2011","place":"Çaldıran, Van","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":375,"name":"Dudu Şimşek, 21","date":"09/07/2011","place":"Çukurova, Adana","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":376,"name":"Feride Şen, 33","date":"09/07/2011","place":"İlkadım, Samsun","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":373,"name":"Tuğba Özbek, 38","date":"09/07/2011","place":"Bayrampaşa, Istanbul","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":372,"name":"Kübra Nur Şahin, 18","date":"08/07/2011","place":"Elbistan, Kahramanmaraş","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":371,"name":"Birsen Kandemir, 33","date":"08/07/2011","place":"Çankaya, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":370,"name":"Elmas Karaaslan, 73","date":"01/07/2011","place":"Mucur, Kırşehir","who": "Akrabası","cause":"Cinsel saldırı"},
+
+{"id":369,"name":"Hacer Yavuz, 61","date":"30/06/2011","place":"Orhangazi, Bursa","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":368,"name":"Hatice Tekdemir, 31","date":"29/06/2011","place":"Kocasinan, Kayseri","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":367,"name":"Nurgül Kaya, 37","date":"27/06/2011","place":"Merkez, Malatya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":365,"name":"Birgül Akgül, 45","date":"25/06/2011","place":"Bodrum, Muğla","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":366,"name":"Özlem İlpars, 24","date":"25/06/2011","place":"Menemen, İzmir","who": "Dini nikahlı kocası","cause":"Aldatılma şüphesi"},
+
+{"id":363,"name":"M.g., 25","date":"23/06/2011","place":"Merkez, Bitlis","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":364,"name":"Derya Türk, 18","date":"23/06/2011","place":"Merkez, Düzce","who": "Dini nikahlı kocası","cause":"Aldatılma şüphesi"},
+
+{"id":362,"name":"Rahime Yıldız Uçar, 21","date":"22/06/2011","place":"Etimesgut, Ankara","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":361,"name":"Rengiye Mersinli, 45","date":"22/06/2011","place":"Merkez, Bartın","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":360,"name":"Şehri Özdemir, 44","date":"20/06/2011","place":"Alaplı, Zonguldak","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":359,"name":"Fatma Bağcı, 50","date":"19/06/2011","place":"Merkez, Denizli","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":357,"name":"Emine Sibel Özbabacan, 60","date":"14/06/2011","place":"Çeşme, İzmir","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":358,"name":"Halime Taşkıran, 21","date":"14/06/2011","place":"Silvan, Diyarbakır","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":356,"name":"Remziye Filiz, 80","date":"11/06/2011","place":"Susurluk, Balıkesir","who": "Oğlu","cause":"Maddi kaynaklı"},
+
+{"id":355,"name":"Elif Yüksel, 13","date":"11/06/2011","place":"Sultanbeyli, Istanbul","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":354,"name":"Fatma Yüksel, 38","date":"11/06/2011","place":"Sultanbeyli, Istanbul","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":351,"name":"Sevgi Ulu","date":"10/06/2011","place":"Turhal, Tokat","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":352,"name":"Emine Ulu, 60","date":"10/06/2011","place":"Turhal, Tokat","who": "Damadı","cause":"Bilinmiyor"},
+
+{"id":353,"name":"Gülhan Özdemir, 17","date":"10/06/2011","place":"Espiye, Giresun","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":350,"name":"Nurten Eren, 50","date":"06/06/2011","place":"Ödemiş, İzmir","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":349,"name":"Seyhan Temur, 21","date":"03/06/2011","place":"Merkez, Çorum","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":346,"name":"Serpil Pektaş, 32","date":"31/05/2011","place":"Kocasinan, Kayseri","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":347,"name":"Gülhan Acar, 19","date":"31/05/2011","place":"Yüksekova, Hakkâri","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":344,"name":"Gönül Kargılı, 35","date":"29/05/2011","place":"Sancaktepe, Istanbul","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":345,"name":"Birsen Pehlivan, 26","date":"29/05/2011","place":"Döşemealtı, Antalya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":343,"name":"Hülya Kalkan, 24","date":"28/05/2011","place":"Kocasinan, Kayseri","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":342,"name":"Emine Malkoç, 52","date":"26/05/2011","place":"Sarıyer, Istanbul","who": "Damadı","cause":"Maddi kaynaklı"},
+
+{"id":341,"name":"Saliha Karakaya, 39","date":"26/05/2011","place":"Merkez, Denizli","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":339,"name":"Hülya Tazegül, 42","date":"20/05/2011","place":"Büyükçekmece, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":340,"name":"Ayşe Baydemir, 73","date":"19/05/2011","place":"Doğanhisar, Konya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":338,"name":"Yeter Özdemir, 56","date":"18/05/2011","place":"Burhaniye, Balıkesir","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":337,"name":"Fatma D., 5","date":"17/05/2011","place":"Şehitkâmil, Gaziantep","who": "Tanıdığı bir erkek","cause":"Cinsel saldırı"},
+
+{"id":336,"name":"Aliye Heyeva, 37","date":"14/05/2011","place":"Fatih, Istanbul","who": "Tanıdığı bir erkek","cause":"Hırsızlık"},
+
+{"id":335,"name":"Büşra Ceylan, 21","date":"13/05/2011","place":"Merkez, Kırklareli","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":334,"name":"Yeşim Erdoğan, 38","date":"11/05/2011","place":"Tuzla, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":333,"name":"Pelda Ekenek, 22","date":"09/05/2011","place":"Derik, Mardin","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":332,"name":"Nebahat Karakaya, 15","date":"07/05/2011","place":"Kovancılar, Elazığ","who": "Akrabası","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":331,"name":"Kader Aksoy, 8","date":"05/05/2011","place":"Şahinbey, Gaziantep","who": "Tanıdığı bir erkek","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":330,"name":"Melike Aksoy, 8","date":"05/05/2011","place":"Şahinbey, Gaziantep","who": "Tanıdığı bir erkek","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":328,"name":"Gül Aksoy, 34","date":"05/05/2011","place":"Şahinbey, Gaziantep","who": "Tanıdığı bir erkek","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":329,"name":"Melisa Aksoy, 14","date":"05/05/2011","place":"Şahinbey, Gaziantep","who": "Tanıdığı bir erkek","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":327,"name":"Vesile Tekin, 39","date":"04/05/2011","place":"Merkez, Aydın","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":312,"name":"Zeynep Yılmaz, 31","date":"27/04/2011","place":"Arnavutköy, Istanbul","who": "Eski erkek arkadaşı","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":313,"name":"Ayfer Yeni, 39","date":"25/04/2011","place":"Alanya, Antalya","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":314,"name":"Şahnur Akay, 36","date":"24/04/2011","place":"Karabağlar, İzmir","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":315,"name":"Türkan Bacanak, 52","date":"24/04/2011","place":"Fethiye, Muğla","who": "Eski kocası","cause":"Namus/ töre"},
+
+{"id":316,"name":"Rabia Üzümovalı, 19","date":"21/04/2011","place":"Bayındır, İzmir","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":317,"name":"Aysel Taş, 35","date":"19/04/2011","place":"Toroslar, Mersin","who": "Kocası","cause":"Kadının çocuk sahibi olmaması"},
+
+{"id":318,"name":"Hatice S., 67","date":"18/04/2011","place":"Çivril, Denizli","who": "Kocası","cause":"Kadının erkeğe iyi bakmaması"},
+
+{"id":323,"name":"Filiz Akar, 40","date":"15/04/2011","place":"Çukurova, Adana","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":319,"name":"Gamze Tanırkut, 21","date":"14/04/2011","place":"Burhaniye, Balıkesir","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":320,"name":"Fatma Etişgen, 31","date":"13/04/2011","place":"Gaziosmanpaşa, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":321,"name":"Naciye Kalyoncu, 32","date":"12/04/2011","place":"Gaziemir, İzmir","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":322,"name":"Fikriye Kul, 38","date":"11/04/2011","place":"Bafra, Samsun","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":324,"name":"Gülnara Unayık, 24","date":"04/04/2011","place":"Çiğli, İzmir","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":325,"name":"Zeynep Salbaş, 25","date":"01/04/2011","place":"Çiçekdağı, Kırşehir","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":326,"name":"Özlem Padak, 31","date":"01/04/2011","place":"Eyüp, Istanbul","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":311,"name":"Ayşe Demir, 33","date":"31/03/2011","place":"Meram, Konya","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":309,"name":"Asuman K., 42","date":"28/03/2011","place":"Canik, Samsun","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":306,"name":"Şerife K., 19","date":"28/03/2011","place":"Dursunbey, Balıkesir","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":305,"name":"Gülnur Türker, 21","date":"27/03/2011","place":"Kepez, Antalya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":308,"name":"Gamze Gürgen, 20","date":"26/03/2011","place":"Karacasu, Aydın","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":303,"name":"Gamze Gezeroğlu, 23","date":"25/03/2011","place":"Merkez, Elazığ","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":304,"name":"Fatma Kabataş, 43","date":"25/03/2011","place":"Maltepe, Istanbul","who": "Oğlu","cause":"Maddi kaynaklı"},
+
+{"id":302,"name":"Havva Nur Çartı, 19","date":"23/03/2011","place":"Meram, Konya","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":301,"name":"Ayşe Gökçe, 35","date":"22/03/2011","place":"Osmangazi, Bursa","who": "Damadı","cause":"Maddi kaynaklı"},
+
+{"id":296,"name":"Selime Bölükbaşı","date":"19/03/2011","place":"Mamak, Ankara","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":297,"name":"Fatma Tohumcu, 24","date":"19/03/2011","place":"Manavgat, Antalya","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":295,"name":"Serpil Kamay, 33","date":"17/03/2011","place":"Bayrampaşa, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":300,"name":"Behiye Kesik, 46","date":"16/03/2011","place":"Yüreğir, Adana","who": "Oğlu","cause":"Namus/ töre"},
+
+{"id":299,"name":"Fatma Taşkıran, 22","date":"16/03/2011","place":"Yüreğir, Adana","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":298,"name":"Hülya Kılıç, 15","date":"16/03/2011","place":"Yüreğir, Adana","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":294,"name":"Zeliha Bulanık, 26","date":"13/03/2011","place":"Hasanbeyli, Osmaniye","who": "Kayınpederi","cause":"Maddi kaynaklı"},
+
+{"id":293,"name":"Sevgi Sağlam, 26","date":"10/03/2011","place":"Seyhan, Adana","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":310,"name":"Ayten Erden, 38","date":"07/03/2011","place":"Merkez, Balıkesir","who": "Babası","cause":"Kadının evi kirletmesi"},
+
+{"id":292,"name":"Ünzile Çalışkan, 42","date":"05/03/2011","place":"Çorlu, Tekirdağ","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":291,"name":"Nilgün Usta, 19","date":"03/03/2011","place":"Ulus, Bartın","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":290,"name":"Hatice Fırat, 19","date":"01/03/2011","place":"Mezitli, Mersin","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":288,"name":"Tuğba Dilek, 34","date":"28/02/2011","place":"Kepez, Antalya","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":287,"name":"Şehri Filiz, 31","date":"26/02/2011","place":"Maltepe, Istanbul","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":286,"name":"Arzu Odabaşı, 43","date":"23/02/2011","place":"Üsküdar, Istanbul","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":285,"name":"Semiha Karadağlı, 51","date":"23/02/2011","place":"Yüreğir, Adana","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":284,"name":"Saime Bolat, 48","date":"23/02/2011","place":"Tarsus, Mersin","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":283,"name":"Münise Sever, 28","date":"21/02/2011","place":"Odunpazarı, Eskişehir","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":281,"name":"Nadile Akpolat, 43","date":"20/02/2011","place":"Hilvan, Şanlıurfa","who": "Akrabası","cause":"Kaza iddiası"},
+
+{"id":282,"name":"Asuman Yörük, 34","date":"20/02/2011","place":"Merkez, Karaman","who": "Dini nikahlı kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":280,"name":"Emine Ertaş Erdem, 37","date":"19/02/2011","place":"Erdemli, Mersin","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":279,"name":"Pınar Türkmen, 21","date":"19/02/2011","place":"Şahinbey, Gaziantep","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":278,"name":"Seniha Yokuş, 60","date":"16/02/2011","place":"Merkez, Edirne","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":277,"name":"Saliha Erdem, 59","date":"15/02/2011","place":"Ataşehir, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":276,"name":"Gülhan Alkan, 18","date":"14/02/2011","place":"Kovancılar, Elazığ","who": "Babası","cause":"Erkeğin boşanma isteğinin reddedilmesi"},
+
+{"id":275,"name":"Ayla Yıldırım, 21","date":"12/02/2011","place":"Kocasinan, Kayseri","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":274,"name":"Arzu Yıldırım, 33","date":"10/02/2011","place":"Ümraniye, Istanbul","who": "Dini nikahlı kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":273,"name":"Sebahat Uçak, 50","date":"08/02/2011","place":"Merkez, Bartın","who": "Tanıdığı bir erkek","cause":"Tartışma/ kavga"},
+
+{"id":269,"name":"Sakine Akkuş, 25","date":"08/02/2011","place":"Bahçelievler, Istanbul","who": "Kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":270,"name":"Münevver Kırmızı, 45","date":"07/02/2011","place":"Çaycuma, Zonguldak","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":271,"name":"Songül Elçi, 50","date":"07/02/2011","place":"Merkez, Tekirdağ","who": "Eski kocası","cause":"Kıskançlık"},
+
+{"id":272,"name":"Gülhan Kırmızı, 43","date":"07/02/2011","place":"Çaycuma, Zonguldak","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":268,"name":"Remziye Çakmak, 42","date":"05/02/2011","place":"Merkez, Şanlıurfa","who": "Kocası","cause":"Kadının ayrılma isteği"},
+
+{"id":266,"name":"Telli Divanoğlu, 34","date":"04/02/2011","place":"Merkez, Nevşehir","who": "Eski erkek arkadaşı","cause":"Kadının evlenme isteği"},
+
+{"id":267,"name":"Gülnaz Karaca, 66","date":"04/02/2011","place":"Merkez, Nevşehir","who": "Diğer yakını","cause":"Bilinmiyor"},
+
+{"id":289,"name":"Dilber K., 29","date":"03/02/2011","place":"Konyaaltı, Antalya","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":265,"name":"Emine Şahin, 59","date":"01/02/2011","place":"Şehitkâmil, Gaziantep","who": "Oğlu","cause":"Namus/ töre"},
+
+{"id":248,"name":"Seval Turan, 42","date":"27/01/2011","place":"Mezitli, Mersin","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":249,"name":"Adile Erzurumlu, 41","date":"26/01/2011","place":"Şahinbey, Gaziantep","who": "Babası","cause":"Namus/ töre"},
+
+{"id":250,"name":"Hatice Alan, 20","date":"25/01/2011","place":"Sorgun, Yozgat","who": "Babası","cause":"Namus/ töre"},
+
+{"id":251,"name":"Medine Taşkın, 28","date":"21/01/2011","place":"Merkez, Şanlıurfa","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":252,"name":"Aleyna Seçkin, 12","date":"20/01/2011","place":"Altındağ, Ankara","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":255,"name":"Selma Civek, 38","date":"20/01/2011","place":"Dikili, İzmir","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":253,"name":"İpek Tekin, 19","date":"17/01/2011","place":"Hazro, Diyarbakır","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":254,"name":"Pınar Dilek Demirci, 29","date":"16/01/2011","place":"Çukurova, Adana","who": "Erkek kardeşi","cause":"Bilinmiyor"},
+
+{"id":256,"name":"Gülüzar Bulut, 57","date":"14/01/2011","place":"Merkez, Iğdır","who": "Akrabası","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":257,"name":"Gülnaz Topçu, 44","date":"12/01/2011","place":"Senirkent, Isparta","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":258,"name":"Ayşe Çakır, 38","date":"10/01/2011","place":"Merkez, Kahramanmaraş","who": "Kocası","cause":"Kadının aracı yanlış yönlendirmesi"},
+
+{"id":259,"name":"Yeliz Gümüş, 29","date":"09/01/2011","place":"Çiğli, İzmir","who": "Erkek kardeşi","cause":"Bilinmiyor"},
+
+{"id":260,"name":"Funda Akbaş, 24","date":"08/01/2011","place":"Bandırma, Balıkesir","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":262,"name":"Sedef Çetinkaya, 37","date":"05/01/2011","place":"Akhisar, Manisa","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":261,"name":"Zelal Ş., 16","date":"04/01/2011","place":"Merkez, Iğdır","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":263,"name":"K.a.","date":"02/01/2011","place":"Merkez, Kırıkkale","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":264,"name":"Fatima Yıldız, 55","date":"01/01/2011","place":"Gaziosmanpaşa, Istanbul","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":246,"name":"Emine Bayrakçı","date":"31/12/2010","place":"Çubuk, Ankara","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":244,"name":"Ayşe Uçar, 32","date":"28/12/2010","place":"Ulukışla, Niğde","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":245,"name":"Nazmiye Dündar, 52","date":"28/12/2010","place":"Ulukışla, Niğde","who": "Damadı","cause":"Dolaylı"},
+
+{"id":243,"name":"Fatma Yazan, 37","date":"25/12/2010","place":"Selçuklu, Konya","who": "Tanıdığı bir erkek","cause":"Cinsel saldırı"},
+
+{"id":240,"name":"Ayışığı Kocakırbaş, 15","date":"23/12/2010","place":"Kadıköy, Istanbul","who": "Diğer yakını","cause":"Dolaylı"},
+
+{"id":242,"name":"Sevda B., 23","date":"23/12/2010","place":"Altındağ, Ankara","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":239,"name":"Hale Kocakırbaş, 35","date":"23/12/2010","place":"Kadıköy, Istanbul","who": "Eski kocası","cause":"Aldatılma şüphesi"},
+
+{"id":241,"name":"Fatma Tanır, 18","date":"23/12/2010","place":"Harran, Şanlıurfa","who": "Akrabası","cause":"Kaza iddiası"},
+
+{"id":237,"name":"Lütfiye Bakaçhan, 22","date":"22/12/2010","place":"Viranşehir, Şanlıurfa","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":238,"name":"Meryem Caner, 50","date":"21/12/2010","place":"Torbalı, İzmir","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":235,"name":"Ayşe Yıldırım, 33","date":"21/12/2010","place":"Meram, Konya","who": "Dini nikahlı eski kocası","cause":"Namus/ töre"},
+
+{"id":236,"name":"Fadime Özer, 63","date":"18/12/2010","place":"Ereğli, Zonguldak","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":233,"name":"Soney Öğmen, 26","date":"14/12/2010","place":"Fatih, Istanbul","who": "Erkek kardeşi","cause":"Erkeğin kadının evliliğini onaylamaması"},
+
+{"id":234,"name":"Gülşen Altürk, 27","date":"12/12/2010","place":"Erdemli, Mersin","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":232,"name":"Ayşe Paşalı, 42","date":"07/12/2010","place":"Keçiören, Ankara","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":231,"name":"Hediye S., 39","date":"06/12/2010","place":"Köyceğiz, Muğla","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":247,"name":"Neriman Seçkin, 36","date":"03/12/2010","place":"Buldan, Denizli","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":230,"name":"Emine Ö., 9","date":"02/12/2010","place":"Kemalpaşa, İzmir","who": "Babası","cause":"Çocuğun yemek yememesi"},
+
+{"id":229,"name":"Julia C., 35","date":"29/11/2010","place":"Kuşadası, Aydın","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":225,"name":"Betül Zınk, 32","date":"24/11/2010","place":"Tarsus, Mersin","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":228,"name":"Nergis Karataş, 18","date":"22/11/2010","place":"Konak, İzmir","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":211,"name":"Sevgi Kılıç, 20","date":"18/11/2010","place":"Şehitkâmil, Gaziantep","who": "Babası","cause":"Namus/ töre"},
+
+{"id":212,"name":"Ayşe Kılıç, 21","date":"18/11/2010","place":"Şehitkâmil, Gaziantep","who": "Babası","cause":"Namus/ töre"},
+
+{"id":224,"name":"Emine Antep, 39","date":"15/11/2010","place":"Adapazarı, Sakarya","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":226,"name":"Leyla Algan, 28","date":"15/11/2010","place":"Gürsu, Bursa","who": "Erkek arkadaşı","cause":"Kadının erkeğin evlenmesine engel olması"},
+
+{"id":220,"name":"Saniye Tekdemir, 73","date":"13/11/2010","place":"Tomarza, Kayseri","who": "Akrabası","cause":"Hırsızlık"},
+
+{"id":227,"name":"Çiğdem Şahin, 20","date":"12/11/2010","place":"Karabağlar, İzmir","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":219,"name":"Fatma Aslan, 7","date":"10/11/2010","place":"Erciş, Van","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":217,"name":"Saide Aslan, 43","date":"10/11/2010","place":"Erciş, Van","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":218,"name":"Pınar Aslan, 15","date":"10/11/2010","place":"Erciş, Van","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":214,"name":"Songül Budak, 30","date":"09/11/2010","place":"Köyceğiz, Muğla","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":213,"name":"Nurgül Doğan, 38","date":"09/11/2010","place":"Şahinbey, Gaziantep","who": "Tanıdığı bir erkek","cause":"Hırsızlık"},
+
+{"id":216,"name":"Feride Sadak, 27","date":"04/11/2010","place":"Merkez, Malatya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":215,"name":"Yeliz Karahasanoğlu, 28","date":"04/11/2010","place":"Ümraniye, Istanbul","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":190,"name":"Tülay Coşar, 36","date":"29/10/2010","place":"Yenişehir, Mersin","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":209,"name":"Ayşe Doğan, 41","date":"29/10/2010","place":"Bodrum, Muğla","who": "Kocası","cause":"Kadının tuzluğu uzatmaması"},
+
+{"id":193,"name":"Semra Yaşar, 35","date":"28/10/2010","place":"Küçükçekmece, Istanbul","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":191,"name":"Ayten Alptekin, 44","date":"27/10/2010","place":"Kadıköy, Istanbul","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":192,"name":"Havva E., 15","date":"25/10/2010","place":"Kocaköy, Diyarbakır","who": "Akrabası","cause":"Cinsel saldırı"},
+
+{"id":194,"name":"Müfide Tamur, 23","date":"25/10/2010","place":"Hakkari, Hakkâri","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":195,"name":"Gülhanım Gület, 40","date":"22/10/2010","place":"Şişli, Istanbul","who": "Akrabası","cause":"Hırsızlık"},
+
+{"id":202,"name":"Hediye Bayar, 25","date":"21/10/2010","place":"Seyhan, Adana","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":210,"name":"Nejla Yıldız, 40","date":"21/10/2010","place":"Mamak, Ankara","who": "Diğer yakını","cause":"Bilinmiyor"},
+
+{"id":197,"name":"Fatma Öztürk, 38","date":"18/10/2010","place":"Tuzla, Istanbul","who": "Damadı","cause":"Dolaylı"},
+
+{"id":196,"name":"Kezban Gök, 18","date":"18/10/2010","place":"Tuzla, Istanbul","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":200,"name":"Bahar Adıyaman, 18","date":"16/10/2010","place":"Çukurova, Adana","who": "Erkek kardeşi","cause":"Dolaylı"},
+
+{"id":198,"name":"Hanife Z., 32","date":"16/10/2010","place":"Çukurova, Adana","who": "Erkek kardeşi","cause":"Erkeğin kadının işini onaylamaması"},
+
+{"id":199,"name":"Fatma Adıyaman, 55","date":"16/10/2010","place":"Çukurova, Adana","who": "Oğlu","cause":"Dolaylı"},
+
+{"id":203,"name":"Meryem Deliahmet, 51","date":"15/10/2010","place":"Yenimahalle, Ankara","who": "Erkek kardeşi","cause":"Tartışma/ kavga"},
+
+{"id":201,"name":"Pınar Kartal, 25","date":"12/10/2010","place":"İncirliova, Aydın","who": "Erkek arkadaşı","cause":"Erkeğin ayrılma isteğinin reddedilmesi"},
+
+{"id":223,"name":"Sevgi Erciyas, 44","date":"11/10/2010","place":"Karapınar, Konya","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":222,"name":"Zübeyde T., 32","date":"10/10/2010","place":"Selçuklu, Konya","who": "Diğer yakını","cause":"Tartışma/ kavga"},
+
+{"id":204,"name":"Halime Oran, 32","date":"06/10/2010","place":"Simav, Kütahya","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":206,"name":"Birgül Örmeci, 28","date":"04/10/2010","place":"Beydağ, İzmir","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":207,"name":"Duygu Yerci, 30","date":"04/10/2010","place":"Yenişehir, Mersin","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":208,"name":"Atike Ceylan, 71","date":"01/10/2010","place":"Akdeniz, Mersin","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":189,"name":"İsmihan Yeşeri, 58","date":"30/09/2010","place":"Hüyük, Konya","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":185,"name":"İpek Şardağ, 83","date":"28/09/2010","place":"Kocaali, Sakarya","who": "Akrabası","cause":"Cinsel saldırı"},
+
+{"id":186,"name":"Gülten Yıldız, 72","date":"28/09/2010","place":"Osmangazi, Bursa","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":188,"name":"Oya Kargıner, 35","date":"27/09/2010","place":"Şahinbey, Gaziantep","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":187,"name":"Sevil B., 36","date":"27/09/2010","place":"Bayraklı, İzmir","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":184,"name":"Beyhan K.","date":"25/09/2010","place":"Bağcılar, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":183,"name":"Şahide Nargis, 55","date":"24/09/2010","place":"Antakya, Hatay","who": "Diğer yakını","cause":"Tartışma/ kavga"},
+
+{"id":182,"name":"Songül Durmaz, 55","date":"22/09/2010","place":"Çilimli, Düzce","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":180,"name":"Fatma Bozdağ, 42","date":"18/09/2010","place":"Odunpazarı, Eskişehir","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":181,"name":"Zeycan Aydoğdu, 20","date":"18/09/2010","place":"Dilovası, Kocaeli","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":176,"name":"Nadide Şahin, 31","date":"15/09/2010","place":"Şehitkâmil, Gaziantep","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":178,"name":"Tülay Mayuncur, 34","date":"14/09/2010","place":"Bahçelievler, Istanbul","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":179,"name":"Öznur Uluişden, 11","date":"14/09/2010","place":"Odunpazarı, Eskişehir","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":174,"name":"Gülbeyaz İpek, 23","date":"14/09/2010","place":"Kadıköy, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":175,"name":"Esra Çakmak, 20","date":"13/09/2010","place":"Merkez, Şanlıurfa","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":177,"name":"Müzeyyen Ayık, 29","date":"13/09/2010","place":"Şahinbey, Gaziantep","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":173,"name":"Rubaşa Demir, 43","date":"09/09/2010","place":"Seyhan, Adana","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":172,"name":"Hatice Anuf, 48","date":"08/09/2010","place":"Merkez, Aksaray","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":170,"name":"Özgür Yaman, 33","date":"06/09/2010","place":"Merkez, Kastamonu","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":171,"name":"Tevrat Kıncak, 38","date":"06/09/2010","place":"Yenişehir, Mersin","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":169,"name":"Nuray A., 12","date":"02/09/2010","place":"Tortum, Erzurum","who": "Akrabası","cause":"Cinsel saldırı"},
+
+{"id":168,"name":"Rahime Peker, 57","date":"29/08/2010","place":"Ortaca, Muğla","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":166,"name":"Meryem Oktay, 48","date":"28/08/2010","place":"Avcılar, Istanbul","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":159,"name":"Gülbeyaz Aslan, 44","date":"28/08/2010","place":"Bahçelievler, Istanbul","who": "Erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":167,"name":"Leyla Kasa, 30","date":"28/08/2010","place":"Avcılar, Istanbul","who": "Diğer yakını","cause":"Tartışma/ kavga"},
+
+{"id":162,"name":"Server Güven, 33","date":"27/08/2010","place":"Merkez, Trabzon","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":163,"name":"Cihan Akpulat, 24","date":"27/08/2010","place":"Merkez, Batman","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":165,"name":"Ceylan Yıldırım, 16","date":"27/08/2010","place":"Merkez, Kilis","who": "Erkek kardeşi","cause":"Erkeğin kadının evliliğini onaylamaması"},
+
+{"id":164,"name":"Meliha Doğan, 43","date":"26/08/2010","place":"Bağlar, Diyarbakır","who": "Kocası","cause":"Kadının yemeği geç hazırlaması"},
+
+{"id":160,"name":"Ayşegül Kaplan, 27","date":"24/08/2010","place":"Kocasinan, Kayseri","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":161,"name":"Esin Güneş, 25","date":"24/08/2010","place":"Tillo, Siirt","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":158,"name":"Mukaddes Topval, 24","date":"24/08/2010","place":"Seyhan, Adana","who": "Dini nikahlı kocası","cause":"Kadının ev işlerini yapmaması"},
+
+{"id":157,"name":"Gülcan Bahçeci, 35","date":"23/08/2010","place":"Yüreğir, Adana","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":155,"name":"Nekana Yusubova, 27","date":"19/08/2010","place":"Pendik, Istanbul","who": "Tanıdığı bir erkek","cause":"Erkeğin erkekliğine laf söylenmesi"},
+
+{"id":154,"name":"Emine Çetin, 17","date":"17/08/2010","place":"Alaşehir, Manisa","who": "Tanıdığı bir erkek","cause":"Cinsel saldırı"},
+
+{"id":151,"name":"Selma T., 50","date":"16/08/2010","place":"Çayırova, Kocaeli","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":153,"name":"Şengül Yalçıner, 53","date":"16/08/2010","place":"Mudanya, Bursa","who": "Eski kocası","cause":"Aldatılma şüphesi"},
+
+{"id":152,"name":"İsmihan S.","date":"16/08/2010","place":"Ilgın, Konya","who": "Kocası","cause":"Kaza iddiası"},
+
+{"id":149,"name":"Gülay Kaman, 33","date":"15/08/2010","place":"Gölbaşı, Ankara","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":150,"name":"Sevilay Kaman, 38","date":"15/08/2010","place":"Gölbaşı, Ankara","who": "Akrabası","cause":"Dolaylı"},
+
+{"id":148,"name":"Esra Küşioğlu, 27","date":"14/08/2010","place":"Buca, İzmir","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":144,"name":"Sevilay D., 21","date":"13/08/2010","place":"Melikgazi, Kayseri","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":145,"name":"Fatma Okçu, 52","date":"13/08/2010","place":"Şehitkâmil, Gaziantep","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":146,"name":"Neriman Türker, 46","date":"13/08/2010","place":"Merkez, Osmaniye","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":147,"name":"Ayşe K., 42","date":"13/08/2010","place":"Keçiören, Ankara","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":143,"name":"Altun Akırmak, 29","date":"12/08/2010","place":"Merkez, Van","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":142,"name":"Neşide Dırmıkçı, 61","date":"11/08/2010","place":"Beyoğlu, Istanbul","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":141,"name":"Nuray Yaraş, 41","date":"11/08/2010","place":"Mezitli, Mersin","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":140,"name":"İlona Tcaciuc, 37","date":"10/08/2010","place":"Beyoğlu, Istanbul","who": "Tanıdığı bir erkek","cause":"Tartışma/ kavga"},
+
+{"id":139,"name":"Perihan Bayıroğlu, 50","date":"05/08/2010","place":"Gazipaşa, Antalya","who": "Kayınpederi","cause":"Bilinmiyor"},
+
+{"id":136,"name":"Sevda Gül Erkuş, 22","date":"04/08/2010","place":"Keçiören, Ankara","who": "Tanıdığı bir erkek","cause":"Dolaylı"},
+
+{"id":135,"name":"Makbule Seyfi, 41","date":"04/08/2010","place":"Keçiören, Ankara","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":137,"name":"Tülin Kök, 42","date":"04/08/2010","place":"Didim, Aydın","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":138,"name":"Dilek Gülüç, 30","date":"04/08/2010","place":"Karacabey, Bursa","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":132,"name":"Ruzkat Alkan, 48","date":"01/08/2010","place":"Ümraniye, Istanbul","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":134,"name":"Mediha Baştürk, 19","date":"01/08/2010","place":"Tepebaşı, Eskişehir","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":133,"name":"Sevgi Arslan, 22","date":"01/08/2010","place":"Ümraniye, Istanbul","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":131,"name":"Zahide Polat, 20","date":"30/07/2010","place":"Suruç, Şanlıurfa","who": "Akrabası","cause":"Dolaylı"},
+
+{"id":130,"name":"Nevriye Ertürk, 46","date":"29/07/2010","place":"Odunpazarı, Eskişehir","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":221,"name":"Sevgi Taşkın, 25","date":"29/07/2010","place":"Nilüfer, Bursa","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":129,"name":"Vahide Erdem, 40","date":"28/07/2010","place":"Merkez, Uşak","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":126,"name":"Şahide Aykutlu, 27","date":"26/07/2010","place":"Seyhan, Adana","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":127,"name":"Gülbahar Sağlam, 20","date":"26/07/2010","place":"Seyhan, Adana","who": "Eski erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":128,"name":"Sinem Yurdanur, 19","date":"26/07/2010","place":"İnegöl, Bursa","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":125,"name":"Burcu Çağlayan, 22","date":"23/07/2010","place":"Muratpaşa, Antalya","who": "Erkek arkadaşı","cause":"Tartışma/ kavga"},
+
+{"id":124,"name":"Selma A., 41","date":"22/07/2010","place":"Merkez, Kastamonu","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":123,"name":"Nurdan A., 39","date":"21/07/2010","place":"Karabağlar, İzmir","who": "Erkek arkadaşı","cause":"Erkeğin ayrılma isteğinin reddedilmesi"},
+
+{"id":121,"name":"Emine Ş., 22","date":"20/07/2010","place":"Elmalı, Antalya","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":122,"name":"Songül Acar, 44","date":"20/07/2010","place":"Konak, İzmir","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":120,"name":"Akılcan Cumaniyazova, 35","date":"17/07/2010","place":"Kadıköy, Istanbul","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":119,"name":"Hacer Gündoğdu, 48","date":"16/07/2010","place":"Esenyurt, Istanbul","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":118,"name":"Şenay Gör, 43","date":"14/07/2010","place":"Mamak, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":116,"name":"Aslı Kaya, 24","date":"13/07/2010","place":"Kadıköy, Istanbul","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":117,"name":"E.f., 2","date":"13/07/2010","place":"Merkez, Amasya","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":156,"name":"Ayten Kıvılcım, 17","date":"13/07/2010","place":"Bodrum, Muğla","who": "Eski erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":115,"name":"Özlem Özden, 24","date":"11/07/2010","place":"Merkez, Karaman","who": "Dini nikahlı eski kocası","cause":"Bilinmiyor"},
+
+{"id":113,"name":"Özlem E., 40","date":"09/07/2010","place":"Keçiören, Ankara","who": "Babası","cause":"Maddi kaynaklı"},
+
+{"id":114,"name":"Makbule Aksoy, 30","date":"09/07/2010","place":"Osmangazi, Bursa","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":112,"name":"Gülfer E., 57","date":"09/07/2010","place":"Keçiören, Ankara","who": "Kocası","cause":"Maddi kaynaklı"},
+
+{"id":111,"name":"Derya Fakir, 24","date":"06/07/2010","place":"Merkez, Karaman","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":110,"name":"Leyla Oğuz, 57","date":"03/07/2010","place":"Nilüfer, Bursa","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":109,"name":"Nurhayat Ferimaz, 45","date":"01/07/2010","place":"Merkez, Tekirdağ","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":205,"name":"Çilem Kolbastı, 19","date":"01/07/2010","place":"Kemalpaşa, İzmir","who": "Akrabası","cause":"Kadının erkeği şikayet etmesi"},
+
+{"id":108,"name":"Yüksel Köse, 50","date":"28/06/2010","place":"Kalecik, Ankara","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":107,"name":"Hilal Demir, 24","date":"25/06/2010","place":"Küçükçekmece, Istanbul","who": "Eski erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":106,"name":"Faike Yılmaz, 50","date":"22/06/2010","place":"Seyhan, Adana","who": "Kocası","cause":"Kadının sabah erkeği uyandırmaması"},
+
+{"id":105,"name":"Hülya Yolcubal, 36","date":"19/06/2010","place":"Bodrum, Muğla","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":104,"name":"Songül Yamaç","date":"16/06/2010","place":"Aladağ, Adana","who": "Damadı","cause":"Dolaylı"},
+
+{"id":101,"name":"K.y., 53","date":"15/06/2010","place":"Havran, Balıkesir","who": "Saldırgan","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":102,"name":"Filiz Güneş, 26","date":"15/06/2010","place":"Çivril, Denizli","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":103,"name":"Birsen İçli, 31","date":"12/06/2010","place":"Çınar, Diyarbakır","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":100,"name":"Nasibe Işık, 62","date":"12/06/2010","place":"Mamak, Ankara","who": "Kocası","cause":"Kıskançlık"},
+
+{"id":99,"name":"Gülay Gündoğdu, 36","date":"10/06/2010","place":"Merkez, Çorum","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":98,"name":"Senem Yıldırım, 70","date":"07/06/2010","place":"Yenimahalle, Ankara","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":97,"name":"Terfe Karaca, 48","date":"04/06/2010","place":"Merkez, Şanlıurfa","who": "Akrabası","cause":"Kadının erkeğin evlenmesine engel olması"},
+
+{"id":96,"name":"Nazlı Umakoğlu, 42","date":"02/06/2010","place":"Yüreğir, Adana","who": "Kocası","cause":"Cinsel saldırı"},
+
+{"id":95,"name":"İkramiye Köse, 50","date":"29/05/2010","place":"Kocasinan, Kayseri","who": "Oğlu","cause":"Tartışma/ kavga"},
+
+{"id":94,"name":"Umahan Kalkan, 77","date":"28/05/2010","place":"Hisarcık, Kütahya","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":93,"name":"Hüsne Coşaran, 45","date":"28/05/2010","place":"Pendik, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":92,"name":"Ümran Bağcı, 35","date":"27/05/2010","place":"Aksu, Antalya","who": "Saldırgan","cause":"Tartışma/ kavga"},
+
+{"id":91,"name":"Nuray Etoğlangil, 38","date":"26/05/2010","place":"Şahinbey, Gaziantep","who": "Tanıdığı bir erkek","cause":"Bilinmiyor"},
+
+{"id":90,"name":"Burcu Yanaray Soylu, 21","date":"26/05/2010","place":"Antakya, Hatay","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":89,"name":"Ayşe Türkoğlu, 36","date":"24/05/2010","place":"Beylikdüzü, Istanbul","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":88,"name":"Lahavonova Kerimbekirova","date":"23/05/2010","place":"Merkez, Tekirdağ","who": "Erkek arkadaşı","cause":"Aldatılma şüphesi"},
+
+{"id":87,"name":"Fatma Özalp, 38","date":"21/05/2010","place":"Merkez, Denizli","who": "Eski erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":86,"name":"Derya Demiral, 21","date":"20/05/2010","place":"Gaziosmanpaşa, Istanbul","who": "Erkek arkadaşı","cause":"Kadının yeni elbise alması"},
+
+{"id":85,"name":"Reyhan Arıdağ, 24","date":"19/05/2010","place":"Tarsus, Mersin","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":84,"name":"Filiz Peker, 26","date":"17/05/2010","place":"Alanya, Antalya","who": "Erkek arkadaşı","cause":"Kadının başörtüsü takmak istememesi"},
+
+{"id":82,"name":"Kezban Ülger, 22","date":"14/05/2010","place":"Ceyhan, Adana","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":83,"name":"Edibe Göçer, 39","date":"14/05/2010","place":"Tarsus, Mersin","who": "Kocası","cause":"Erkeğin kadının işini onaylamaması"},
+
+{"id":80,"name":"Betül Çelik, 18","date":"08/05/2010","place":"Çubuk, Ankara","who": "Tanıdığı bir erkek","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":81,"name":"Fatma Darendeli, 26","date":"08/05/2010","place":"Merkez, Kahramanmaraş","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":79,"name":"Vesile T., 32","date":"07/05/2010","place":"Sincan, Ankara","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":78,"name":"Gülayşe Bilgi, 45","date":"06/05/2010","place":"Milas, Muğla","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":77,"name":"Tuğba Yıldırım, 25","date":"05/05/2010","place":"Fatih, Istanbul","who": "Eski erkek arkadaşı","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":76,"name":"Nilgün Erkmen, 16","date":"04/05/2010","place":"Merkez, Çorum","who": "Saldırgan","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":52,"name":"Altun Çağlayan, 42","date":"30/04/2010","place":"Ünye, Ordu","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":54,"name":"Funda T., 20","date":"29/04/2010","place":"Merkez, Kars","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":53,"name":"Sevcihan Çiftçi, 42","date":"29/04/2010","place":"Milas, Muğla","who": "Akrabası","cause":"Bilinmiyor"},
+
+{"id":55,"name":"Leyla Bakan, 39","date":"28/04/2010","place":"Merkez, Manisa","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":58,"name":"Hatice Akkaya, 35","date":"28/04/2010","place":"Serik, Antalya","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":60,"name":"Nilüfer Sevil Gökmen, 41","date":"26/04/2010","place":"Seyhan, Adana","who": "Akrabası","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":59,"name":"Keriman A.","date":"26/04/2010","place":"Merkez, Aydın","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":57,"name":"Ayşe Selen Ayla, 22","date":"26/04/2010","place":"Balçova, İzmir","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":56,"name":"Esra Yaşar, 27","date":"26/04/2010","place":"Balçova, İzmir","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":61,"name":"Elif Bakantepe, 22","date":"24/04/2010","place":"İnegöl, Bursa","who": "Eski kocası","cause":"Tartışma/ kavga"},
+
+{"id":62,"name":"Esra Kaya, 22","date":"23/04/2010","place":"Merkez, Ağrı","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":63,"name":"Aynur Kaçar, 51","date":"21/04/2010","place":"Bayrampaşa, Istanbul","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":64,"name":"Aysel Çalışır, 29","date":"17/04/2010","place":"Yıldırım, Bursa","who": "Eski kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":65,"name":"Meral Kaz, 36","date":"15/04/2010","place":"Şahinbey, Gaziantep","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":66,"name":"Gülşen U., 37","date":"12/04/2010","place":"Karamürsel, Kocaeli","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":67,"name":"Güler Koca, 32","date":"09/04/2010","place":"Fethiye, Muğla","who": "Kocası","cause":"Erkeğin boşanma isteğinin reddedilmesi"},
+
+{"id":68,"name":"Nazire Ekberova, 38","date":"08/04/2010","place":"Merkez, Iğdır","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":69,"name":"Gülistan Kaya, 28","date":"08/04/2010","place":"Çermik, Diyarbakır","who": "Kocası","cause":"Kadının koyunları otlatmaması"},
+
+{"id":75,"name":"Sedanur Akbaşak, 6","date":"07/04/2010","place":"Gaziemir, İzmir","who": "Babası","cause":"Maddi kaynaklı"},
+
+{"id":70,"name":"Aysun Uslu, 25","date":"06/04/2010","place":"Çine, Aydın","who": "Eski kocası","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":71,"name":"Aysel Uslu, 50","date":"06/04/2010","place":"Çine, Aydın","who": "Diğer yakını","cause":"Dolaylı"},
+
+{"id":72,"name":"Hafize Topluca, 33","date":"03/04/2010","place":"Kuşadası, Aydın","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":73,"name":"Songül Selen Elönü, 18","date":"01/04/2010","place":"Ümraniye, Istanbul","who": "Saldırgan","cause":"Hırsızlık"},
+
+{"id":74,"name":"Lütfiye Dümen, 41","date":"01/04/2010","place":"Merkez, Tekirdağ","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":29,"name":"Firdevs Aydoğdu, 30","date":"30/03/2010","place":"Çerkeş, Çankırı","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":30,"name":"Dilek Alır","date":"28/03/2010","place":"Yüreğir, Adana","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":31,"name":"Hamide Tatlı, 56","date":"28/03/2010","place":"Kağıthane, Istanbul","who": "Kocası","cause":"Kadının oğlunda kalma isteği"},
+
+{"id":32,"name":"Fatma Köfte, 47","date":"22/03/2010","place":"Merkez, Kahramanmaraş","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":348,"name":"Hatun Gözmen, 27","date":"22/03/2010","place":"Üzümlü, Erzincan","who": "Kocası","cause":"Namus/ töre"},
+
+{"id":33,"name":"Gülümser Dane, 19","date":"20/03/2010","place":"Karabağlar, İzmir","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":34,"name":"Hacer Balsak, 51","date":"18/03/2010","place":"Kayapınar, Diyarbakır","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":35,"name":"Öznur Kılınç, 39","date":"18/03/2010","place":"Çorlu, Tekirdağ","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":36,"name":"Dilek Fil","date":"18/03/2010","place":"Eyüp, Istanbul","who": "Eski erkek arkadaşı","cause":"Kıskançlık"},
+
+{"id":37,"name":"Sevim Fil, 50","date":"18/03/2010","place":"Eyüp, Istanbul","who": "Diğer yakını","cause":"Dolaylı"},
+
+{"id":50,"name":"Gözde Çakır, 16","date":"18/03/2010","place":"Uzunköprü, Edirne","who": "Erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":38,"name":"Cemile Karataş, 39","date":"17/03/2010","place":"Şahinbey, Gaziantep","who": "Erkek kardeşi","cause":"Namus/ töre"},
+
+{"id":40,"name":"Hatice Şekerci, 37","date":"12/03/2010","place":"Osmangazi, Bursa","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":41,"name":"Ceyda Şekerci, 17","date":"12/03/2010","place":"Osmangazi, Bursa","who": "Babası","cause":"Tartışma/ kavga"},
+
+{"id":42,"name":"Gülten Sansür, 43","date":"12/03/2010","place":"Seyhan, Adana","who": "Diğer yakını","cause":"Çocuk/ velayet kaynaklı"},
+
+{"id":43,"name":"Kardelen Kurtoğlu, 9","date":"12/03/2010","place":"Nallıhan, Ankara","who": "Saldırgan","cause":"Bilinmiyor"},
+
+{"id":39,"name":"Saadet Ulus, 24","date":"12/03/2010","place":"Göle, Ardahan","who": "Saldırgan","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":44,"name":"Nahide A., 50","date":"11/03/2010","place":"Uzunköprü, Edirne","who": "Kocası","cause":"Erkeğin barışma isteğinin reddedilmesi"},
+
+{"id":45,"name":"Medine Kılıç, 0","date":"08/03/2010","place":"Battalgazi, Malatya","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":48,"name":"Halime C., 47","date":"05/03/2010","place":"Bayraklı, İzmir","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":46,"name":"Hanife Ertaş, 40","date":"05/03/2010","place":"İlkadım, Samsun","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":47,"name":"Derya Çakır, 25","date":"04/03/2010","place":"Bağcılar, Istanbul","who": "Eski erkek arkadaşı","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":51,"name":"Suzan Yılmaz, 35","date":"01/03/2010","place":"Fatih, Istanbul","who": "Akrabası","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":49,"name":"Saadet Şen, 63","date":"01/03/2010","place":"Bafra, Samsun","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":9,"name":"Aygün Kıranşan, 24","date":"27/02/2010","place":"Merkez, Malatya","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":10,"name":"Atike Canan Özçağatay, 44","date":"23/02/2010","place":"Gelibolu, Çanakkale","who": "Kocası","cause":"Bilinmiyor"},
+
+{"id":12,"name":"Cansu Özçağatay, 14","date":"23/02/2010","place":"Gelibolu, Çanakkale","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":28,"name":"Durdunaz Hakverdi, 20","date":"23/02/2010","place":"Yenişehir, Mersin","who": "Erkek arkadaşı","cause":"Kadının ayrılma isteği"},
+
+{"id":11,"name":"Melis Özçağatay, 10","date":"23/02/2010","place":"Gelibolu, Çanakkale","who": "Babası","cause":"Bilinmiyor"},
+
+{"id":18,"name":"Melike Balaban, 18","date":"22/02/2010","place":"Odunpazarı, Eskişehir","who": "Erkek kardeşi","cause":"Tartışma/ kavga"},
+
+{"id":17,"name":"Nuray Balaban, 44","date":"22/02/2010","place":"Odunpazarı, Eskişehir","who": "Oğlu","cause":"Tartışma/ kavga"},
+
+{"id":27,"name":"Kadime Şanlı, 42","date":"21/02/2010","place":"Merkez, Malatya","who": "Kocası","cause":"Aldatılma şüphesi"},
+
+{"id":26,"name":"Memnune Özdemir, 40","date":"20/02/2010","place":"Merkez, Malatya","who": "Dini nikahlı kocası","cause":"Tartışma/ kavga"},
+
+{"id":13,"name":"Ferda Gökdemir, 30","date":"20/02/2010","place":"Kayapınar, Diyarbakır","who": "Diğer yakını","cause":"Bilinmiyor"},
+
+{"id":22,"name":"Gültekin Akkaya, 35","date":"19/02/2010","place":"Sarıyer, Istanbul","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":14,"name":"Yasemin Keleş, 29","date":"18/02/2010","place":"Pendik, Istanbul","who": "Eski erkek arkadaşı","cause":"Bilinmiyor"},
+
+{"id":15,"name":"Emriye Çuhadar, 28","date":"17/02/2010","place":"Merkez, Düzce","who": "Saldırgan","cause":"Cinsel saldırı"},
+
+{"id":21,"name":"Serpil Çakıroğlu, 35","date":"15/02/2010","place":"Pamukova, Sakarya","who": "Eski kocası","cause":"Bilinmiyor"},
+
+{"id":20,"name":"Emel Ekin, 35","date":"13/02/2010","place":"Seyhan, Adana","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":16,"name":"Fatma D., 50","date":"12/02/2010","place":"Odunpazarı, Eskişehir","who": "Oğlu","cause":"Bilinmiyor"},
+
+{"id":19,"name":"Dursun Çetinkaya, 46","date":"11/02/2010","place":"Merkez, Bolu","who": "Oğlu","cause":"Maddi kaynaklı"},
+
+{"id":23,"name":"İnci Bilici, 44","date":"07/02/2010","place":"Armutlu, Yalova","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":24,"name":"Ebru Şahin, 23","date":"06/02/2010","place":"Çukurova, Adana","who": "Kocası","cause":"Kadının boşanma isteği"},
+
+{"id":25,"name":"Aliye Sultan Şen, 4","date":"03/02/2010","place":"Şahinbey, Gaziantep","who": "Akrabası","cause":"Başka bir olaydan kadını sorumlu tutma"},
+
+{"id":2,"name":"Elif Şişman, 29","date":"28/01/2010","place":"İzmit, Kocaeli","who": "Tanıdığı bir erkek","cause":"Tartışma/ kavga"},
+
+{"id":1,"name":"Emine Arslan, 34","date":"28/01/2010","place":"Şahinbey, Gaziantep","who": "Kocası","cause":"Tartışma/ kavga"},
+
+{"id":3,"name":"Z.u., 20","date":"17/01/2010","place":"Ergani, Diyarbakır","who": "Dini nikahlı kocası","cause":"Bilinmiyor"},
+
+{"id":5,"name":"Pervin T., 24","date":"14/01/2010","place":"Mamak, Ankara","who": "Akrabası","cause":"Erkeğin ayrılma isteğinin reddedilmesi"},
+
+{"id":4,"name":"Derya Boğa, 34","date":"12/01/2010","place":"Seyhan, Adana","who": "Saldırgan","cause":"Erkeğin reddedilmesi/ terk edilmesi"},
+
+{"id":6,"name":"Alime İşlek, 57","date":"12/01/2010","place":"Bahçelievler, Kütahya","who": "Erkek kardeşi","cause":"Bilinmiyor"},
+
+{"id":8,"name":"Berrin Özçekirdek, 34","date":"11/01/2010","place":"Ceyhan, Adana","who": "Erkek arkadaşı","cause":"Bilinmiyor"}
+
+   ]
