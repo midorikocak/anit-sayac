@@ -6,11 +6,19 @@
     $result = [];
     $notFetched = [];
     foreach($names as $key => $value){
-        usleep(2000000);
+        trial:
         if(!file_exists('data/'.$key.'.json')){
-            $person = $crawl->getPerson($value['link']);
-            $crawl->saveArrayToJson($person,$key);
-            var_dump($person);
+            if($crawl->getPerson($value['link'])!=null){
+                $person = $crawl->getPerson($value['link']);
+                $crawl->saveArrayToJson($person,$key);
+                var_dump($person);
+                usleep(2000000);
+            }
+            else{
+                echo "waiting";
+                usleep(60000000);
+                goto trial;
+            }
         }
     }
 ?>
